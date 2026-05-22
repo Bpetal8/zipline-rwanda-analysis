@@ -1,0 +1,1201 @@
+flight_id,drone_id,battery_id,launch_timestamp,duration_min,destination_hospital,destination_district,dest_lat,dest_lon,distance_km,payload_g,blood_product,weather,outcome,battery_pct_end
+FLT-00001,ZIP-14,BAT-1228,2023-02-13 11:40:50,135.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1708,Whole Blood,Overcast,Delivered,61
+FLT-00002,ZIP-16,BAT-1095,2023-12-13 17:42:58,139.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,676,Whole Blood,Foggy,Returned - Weather,53
+FLT-00003,ZIP-18,BAT-1603,2023-10-06 07:47:11,37.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,213,Packed Red Cells,Foggy,Returned - Weather,62
+FLT-00004,ZIP-13,BAT-1344,2023-05-13 09:21:52,99.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,389,Platelets,Partly Cloudy,Partial Delivery,24
+FLT-00005,ZIP-24,BAT-1044,2023-11-26 09:13:12,85.4,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1298,Whole Blood,Overcast,Partial Delivery,42
+FLT-00006,ZIP-12,BAT-1196,2023-08-03 15:23:29,23.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,293,Packed Red Cells,Foggy,Partial Delivery,67
+FLT-00007,ZIP-24,BAT-1284,2023-02-01 05:42:54,89.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1501,Fresh Frozen Plasma,Clear,Delivered,28
+FLT-00008,ZIP-30,BAT-1959,2023-05-19 05:21:46,84.3,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,346,Packed Red Cells,Overcast,Returned - Technical,52
+FLT-00009,ZIP-27,BAT-1655,2023-04-06 07:48:11,136.2,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,649,Fresh Frozen Plasma,Light Rain,Delivered,71
+FLT-00010,ZIP-12,BAT-1274,2023-03-31 04:52:57,28.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,632,Fresh Frozen Plasma,Overcast,Delivered,31
+FLT-00011,ZIP-27,BAT-1252,2023-07-14 03:10:21,138.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1303,Fresh Frozen Plasma,Light Rain,Returned - Weather,65
+FLT-00012,ZIP-26,BAT-1141,2023-06-16 15:17:33,116.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1210,Whole Blood,Light Rain,Returned - Weather,66
+FLT-00013,ZIP-23,BAT-1696,2023-12-01 16:03:39,22.5,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1421,Whole Blood,Partly Cloudy,Partial Delivery,42
+FLT-00014,ZIP-10,BAT-1881,2023-08-20 16:04:57,105.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1593,Whole Blood,Foggy,Delivered,61
+FLT-00015,ZIP-23,BAT-1300,2023-10-19 20:41:18,111.3,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,523,Platelets,Overcast,Delivered,18
+FLT-00016,ZIP-13,BAT-1934,2023-12-07 09:32:27,140.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1480,Fresh Frozen Plasma,Foggy,Returned - Weather,71
+FLT-00017,ZIP-15,BAT-1780,2023-07-17 09:45:39,139.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1304,Whole Blood,Partly Cloudy,Delivered,56
+FLT-00018,ZIP-19,BAT-1826,2023-07-10 00:08:07,82.8,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,690,Whole Blood,Overcast,Partial Delivery,33
+FLT-00019,ZIP-27,BAT-1778,2023-01-31 20:04:08,109.9,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1768,Packed Red Cells,Light Rain,Returned - Weather,26
+FLT-00020,ZIP-29,BAT-1540,2023-07-04 19:57:10,142.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1066,Packed Red Cells,Partly Cloudy,Delivered,52
+FLT-00021,ZIP-30,BAT-1687,2023-09-26 04:01:56,136.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,964,Platelets,Overcast,Delivered,51
+FLT-00022,ZIP-28,BAT-1021,2023-02-17 05:50:27,99.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1334,Packed Red Cells,Clear,Delivered,55
+FLT-00023,ZIP-11,BAT-1069,2023-01-04 01:01:24,33.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,876,Whole Blood,Clear,Delivered,50
+FLT-00024,ZIP-28,BAT-1135,2023-04-19 09:35:46,37.9,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1380,Platelets,Partly Cloudy,Returned - Weather,33
+FLT-00025,ZIP-23,BAT-1674,2023-11-10 20:25:03,101.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,925,Platelets,Clear,Delivered,44
+FLT-00026,ZIP-20,BAT-1412,2023-12-02 17:32:31,103.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,423,Packed Red Cells,Clear,Delivered,30
+FLT-00027,ZIP-12,BAT-1255,2023-07-28 12:32:43,36.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1107,Whole Blood,Light Rain,Returned - Weather,21
+FLT-00028,ZIP-17,BAT-1869,2023-07-30 04:38:41,141.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,540,Platelets,Clear,Partial Delivery,49
+FLT-00029,ZIP-10,BAT-1388,2023-03-25 06:16:09,104.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,999,Fresh Frozen Plasma,Clear,Delivered,68
+FLT-00030,ZIP-16,BAT-1158,2023-04-22 00:42:55,101.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,807,Packed Red Cells,Foggy,Returned - Technical,21
+FLT-00031,ZIP-28,BAT-1051,2023-10-13 23:34:03,113.5,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1176,Packed Red Cells,Overcast,Delivered,21
+FLT-00032,ZIP-17,BAT-1069,2023-02-01 08:41:34,116.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1026,Whole Blood,Clear,Returned - Weather,54
+FLT-00033,ZIP-28,BAT-1597,2023-08-14 01:55:00,37.3,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1270,Fresh Frozen Plasma,Foggy,Delivered,34
+FLT-00034,ZIP-14,BAT-1405,2023-09-18 08:17:54,38.3,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1575,Fresh Frozen Plasma,Partly Cloudy,Delivered,47
+FLT-00035,ZIP-29,BAT-1469,2023-12-28 01:04:42,88.6,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1353,Whole Blood,Clear,Delivered,22
+FLT-00036,ZIP-12,BAT-1902,2023-03-25 00:44:31,113.2,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,700,Fresh Frozen Plasma,Partly Cloudy,Delivered,36
+FLT-00037,ZIP-30,BAT-1826,2023-06-20 10:10:34,39.3,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1283,Whole Blood,Overcast,Returned - Weather,60
+FLT-00038,ZIP-13,BAT-1270,2023-04-27 12:24:43,116.6,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,419,Packed Red Cells,Clear,Delivered,35
+FLT-00039,ZIP-30,BAT-1703,2023-08-24 03:25:21,84.3,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,740,Platelets,Overcast,Delivered,34
+FLT-00040,ZIP-20,BAT-1003,2023-02-06 02:17:02,26.7,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1779,Packed Red Cells,Overcast,Delivered,58
+FLT-00041,ZIP-13,BAT-1009,2023-03-05 00:03:11,88.6,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,354,Packed Red Cells,Foggy,Returned - Technical,52
+FLT-00042,ZIP-19,BAT-1042,2023-11-21 08:59:21,24.6,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,946,Whole Blood,Foggy,Delivered,40
+FLT-00043,ZIP-27,BAT-1798,2023-09-23 03:19:20,34.6,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1032,Packed Red Cells,Clear,Delivered,33
+FLT-00044,ZIP-20,BAT-1946,2023-11-07 21:29:14,39.1,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1043,Packed Red Cells,Light Rain,Returned - Weather,35
+FLT-00045,ZIP-17,BAT-1481,2023-11-03 00:51:44,38.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,608,Platelets,Light Rain,Returned - Weather,40
+FLT-00046,ZIP-16,BAT-1024,2023-11-15 21:57:12,89.0,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1016,Fresh Frozen Plasma,Partly Cloudy,Delivered,35
+FLT-00047,ZIP-27,BAT-1863,2023-10-28 13:55:36,23.8,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,878,Whole Blood,Foggy,Delivered,25
+FLT-00048,ZIP-29,BAT-1111,2023-03-11 14:22:21,87.3,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1089,Fresh Frozen Plasma,Overcast,Delivered,64
+FLT-00049,ZIP-16,BAT-1590,2023-06-19 17:29:08,87.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,721,Whole Blood,Foggy,Delivered,63
+FLT-00050,ZIP-16,BAT-1759,2023-01-01 21:45:49,101.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,945,Platelets,Foggy,Returned - Technical,22
+FLT-00051,ZIP-13,BAT-1868,2023-12-24 20:12:23,137.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1674,Fresh Frozen Plasma,Overcast,Returned - Technical,50
+FLT-00052,ZIP-16,BAT-1130,2023-09-17 05:53:32,85.9,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1061,Platelets,Light Rain,Returned - Weather,61
+FLT-00053,ZIP-10,BAT-1853,2023-12-17 20:45:27,136.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,822,Fresh Frozen Plasma,Foggy,Delivered,31
+FLT-00054,ZIP-24,BAT-1452,2023-11-02 09:48:11,102.3,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1583,Packed Red Cells,Overcast,Delivered,50
+FLT-00055,ZIP-19,BAT-1086,2023-11-05 12:09:00,104.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1255,Fresh Frozen Plasma,Partly Cloudy,Returned - Technical,23
+FLT-00056,ZIP-11,BAT-1025,2023-09-19 12:54:36,35.1,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,701,Platelets,Partly Cloudy,Delivered,57
+FLT-00057,ZIP-25,BAT-1393,2023-06-27 02:47:10,24.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1018,Packed Red Cells,Foggy,Delivered,27
+FLT-00058,ZIP-17,BAT-1435,2023-09-25 07:06:19,135.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,560,Platelets,Clear,Partial Delivery,21
+FLT-00059,ZIP-24,BAT-1136,2023-04-08 00:41:46,116.5,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1567,Fresh Frozen Plasma,Clear,Delivered,66
+FLT-00060,ZIP-24,BAT-1561,2023-08-27 04:20:00,104.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,525,Platelets,Foggy,Delivered,46
+FLT-00061,ZIP-26,BAT-1796,2023-10-20 05:04:03,84.6,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1192,Packed Red Cells,Overcast,Partial Delivery,35
+FLT-00062,ZIP-20,BAT-1343,2023-01-31 08:11:49,103.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1306,Whole Blood,Partly Cloudy,Delivered,26
+FLT-00063,ZIP-12,BAT-1219,2023-04-01 01:30:47,35.6,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1049,Platelets,Partly Cloudy,Returned - Technical,39
+FLT-00064,ZIP-22,BAT-1430,2023-07-01 04:43:45,112.5,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1776,Whole Blood,Partly Cloudy,Partial Delivery,72
+FLT-00065,ZIP-22,BAT-1771,2023-05-28 23:24:29,113.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1058,Packed Red Cells,Overcast,Delivered,49
+FLT-00066,ZIP-22,BAT-1344,2023-04-17 05:56:29,36.1,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1683,Packed Red Cells,Clear,Delivered,71
+FLT-00067,ZIP-28,BAT-1403,2023-12-24 08:44:56,98.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1355,Whole Blood,Foggy,Returned - Weather,23
+FLT-00068,ZIP-20,BAT-1388,2023-06-16 16:57:38,136.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,633,Platelets,Light Rain,Returned - Weather,38
+FLT-00069,ZIP-23,BAT-1974,2023-10-23 21:10:30,89.7,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,716,Whole Blood,Overcast,Partial Delivery,48
+FLT-00070,ZIP-12,BAT-1665,2023-10-19 03:24:43,25.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1799,Whole Blood,Overcast,Delivered,66
+FLT-00071,ZIP-17,BAT-1156,2023-04-07 06:50:50,23.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,458,Platelets,Clear,Returned - Weather,60
+FLT-00072,ZIP-15,BAT-1377,2023-08-08 06:34:38,29.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1440,Whole Blood,Light Rain,Returned - Weather,67
+FLT-00073,ZIP-22,BAT-1589,2023-05-02 01:05:34,33.4,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1012,Packed Red Cells,Clear,Delivered,22
+FLT-00074,ZIP-19,BAT-1713,2023-09-26 10:59:34,115.8,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1601,Whole Blood,Partly Cloudy,Delivered,68
+FLT-00075,ZIP-26,BAT-1070,2023-11-01 04:41:24,109.5,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1526,Fresh Frozen Plasma,Foggy,Delivered,18
+FLT-00076,ZIP-24,BAT-1848,2023-11-16 14:40:46,101.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1648,Packed Red Cells,Light Rain,Delivered,45
+FLT-00077,ZIP-27,BAT-1827,2023-10-13 05:28:04,36.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1786,Platelets,Overcast,Returned - Weather,47
+FLT-00078,ZIP-17,BAT-1872,2023-11-17 22:24:15,103.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,377,Fresh Frozen Plasma,Overcast,Delivered,46
+FLT-00079,ZIP-25,BAT-1029,2023-10-19 16:56:45,36.3,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,865,Packed Red Cells,Foggy,Returned - Technical,49
+FLT-00080,ZIP-29,BAT-1901,2023-05-19 01:12:30,39.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1636,Fresh Frozen Plasma,Overcast,Delivered,53
+FLT-00081,ZIP-23,BAT-1737,2023-07-20 21:18:53,29.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1200,Packed Red Cells,Clear,Delivered,62
+FLT-00082,ZIP-17,BAT-1301,2023-09-09 02:15:04,103.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1028,Packed Red Cells,Light Rain,Returned - Weather,37
+FLT-00083,ZIP-27,BAT-1763,2023-08-15 02:29:27,137.9,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,877,Fresh Frozen Plasma,Foggy,Returned - Weather,62
+FLT-00084,ZIP-16,BAT-1738,2023-04-16 11:07:26,100.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,846,Whole Blood,Partly Cloudy,Delivered,65
+FLT-00085,ZIP-25,BAT-1756,2023-10-24 06:07:19,114.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,766,Fresh Frozen Plasma,Partly Cloudy,Delivered,24
+FLT-00086,ZIP-27,BAT-1014,2023-04-26 07:13:01,34.4,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,459,Fresh Frozen Plasma,Partly Cloudy,Delivered,20
+FLT-00087,ZIP-25,BAT-1889,2023-08-04 03:40:45,23.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,410,Whole Blood,Partly Cloudy,Returned - Technical,54
+FLT-00088,ZIP-11,BAT-1988,2023-07-02 13:05:47,86.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,717,Platelets,Overcast,Delivered,25
+FLT-00089,ZIP-14,BAT-1155,2023-06-05 20:51:50,25.5,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1352,Fresh Frozen Plasma,Foggy,Returned - Technical,23
+FLT-00090,ZIP-17,BAT-1633,2023-02-16 06:02:54,37.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1788,Platelets,Light Rain,Returned - Weather,46
+FLT-00091,ZIP-29,BAT-1061,2023-04-26 17:31:55,104.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1715,Whole Blood,Light Rain,Delivered,66
+FLT-00092,ZIP-15,BAT-1245,2023-09-01 04:13:21,34.3,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1330,Whole Blood,Clear,Delivered,28
+FLT-00093,ZIP-19,BAT-1237,2023-06-08 21:39:35,25.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1647,Fresh Frozen Plasma,Foggy,Returned - Weather,62
+FLT-00094,ZIP-30,BAT-1810,2023-01-28 21:26:36,103.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1407,Packed Red Cells,Overcast,Partial Delivery,45
+FLT-00095,ZIP-14,BAT-1846,2023-07-31 17:41:21,23.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,346,Whole Blood,Partly Cloudy,Delivered,28
+FLT-00096,ZIP-19,BAT-1479,2023-08-20 08:12:44,88.6,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1633,Platelets,Foggy,Delivered,35
+FLT-00097,ZIP-23,BAT-1040,2023-07-29 22:59:34,113.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1704,Fresh Frozen Plasma,Clear,Returned - Weather,56
+FLT-00098,ZIP-18,BAT-1783,2023-01-11 07:04:41,83.4,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1380,Whole Blood,Foggy,Returned - Weather,66
+FLT-00099,ZIP-23,BAT-1599,2023-07-02 23:23:07,36.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1500,Platelets,Light Rain,Returned - Weather,23
+FLT-00100,ZIP-15,BAT-1107,2023-05-16 09:13:55,101.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,875,Platelets,Overcast,Returned - Technical,62
+FLT-00101,ZIP-24,BAT-1037,2023-04-23 04:23:04,103.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,380,Fresh Frozen Plasma,Light Rain,Partial Delivery,34
+FLT-00102,ZIP-27,BAT-1001,2023-02-15 06:28:03,90.4,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1146,Platelets,Light Rain,Partial Delivery,21
+FLT-00103,ZIP-16,BAT-1052,2023-07-21 14:12:19,35.5,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,746,Packed Red Cells,Light Rain,Returned - Technical,36
+FLT-00104,ZIP-30,BAT-1996,2023-12-09 08:05:07,103.3,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1446,Packed Red Cells,Clear,Delivered,63
+FLT-00105,ZIP-13,BAT-1861,2023-05-01 22:24:04,37.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1145,Whole Blood,Foggy,Returned - Weather,59
+FLT-00106,ZIP-18,BAT-1722,2023-07-13 19:11:46,40.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1050,Platelets,Overcast,Returned - Weather,48
+FLT-00107,ZIP-14,BAT-1520,2023-06-27 15:33:30,37.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,342,Fresh Frozen Plasma,Light Rain,Delivered,67
+FLT-00108,ZIP-19,BAT-1289,2023-05-13 05:52:00,105.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1402,Platelets,Foggy,Delivered,27
+FLT-00109,ZIP-27,BAT-1781,2023-07-29 09:56:05,101.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,972,Platelets,Overcast,Returned - Weather,38
+FLT-00110,ZIP-11,BAT-1420,2023-09-29 03:09:23,34.5,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,851,Platelets,Light Rain,Delivered,63
+FLT-00111,ZIP-11,BAT-1987,2023-05-31 04:30:53,105.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,458,Fresh Frozen Plasma,Partly Cloudy,Delivered,24
+FLT-00112,ZIP-30,BAT-1419,2023-02-08 23:22:49,101.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,516,Whole Blood,Light Rain,Delivered,48
+FLT-00113,ZIP-27,BAT-1336,2023-05-12 17:37:09,87.6,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,978,Fresh Frozen Plasma,Light Rain,Returned - Weather,58
+FLT-00114,ZIP-30,BAT-1240,2023-12-11 21:31:40,141.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1601,Fresh Frozen Plasma,Foggy,Delivered,32
+FLT-00115,ZIP-13,BAT-1648,2023-02-05 08:23:47,138.4,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1108,Packed Red Cells,Clear,Partial Delivery,62
+FLT-00116,ZIP-19,BAT-1057,2023-12-18 02:31:21,82.9,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,934,Fresh Frozen Plasma,Overcast,Partial Delivery,45
+FLT-00117,ZIP-15,BAT-1174,2023-04-06 02:05:06,36.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,361,Platelets,Foggy,Returned - Technical,57
+FLT-00118,ZIP-18,BAT-1653,2023-04-04 18:41:46,138.9,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1141,Fresh Frozen Plasma,Foggy,Returned - Weather,60
+FLT-00119,ZIP-15,BAT-1559,2023-12-16 08:26:05,28.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,351,Platelets,Overcast,Returned - Technical,40
+FLT-00120,ZIP-19,BAT-1865,2023-04-27 10:19:10,114.3,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,607,Platelets,Light Rain,Returned - Weather,72
+FLT-00121,ZIP-19,BAT-1716,2023-02-11 16:04:49,99.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,244,Platelets,Foggy,Delivered,35
+FLT-00122,ZIP-25,BAT-1763,2023-08-09 00:50:26,28.5,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,786,Packed Red Cells,Clear,Returned - Weather,56
+FLT-00123,ZIP-14,BAT-1738,2023-03-27 07:16:12,87.7,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1486,Whole Blood,Foggy,Delivered,58
+FLT-00124,ZIP-14,BAT-1749,2023-01-16 13:26:42,137.4,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,384,Fresh Frozen Plasma,Light Rain,Delivered,38
+FLT-00125,ZIP-21,BAT-1552,2023-06-11 14:46:10,136.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1287,Fresh Frozen Plasma,Partly Cloudy,Partial Delivery,71
+FLT-00126,ZIP-20,BAT-1891,2023-04-11 01:08:05,39.9,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,435,Platelets,Light Rain,Returned - Weather,22
+FLT-00127,ZIP-12,BAT-1374,2023-10-21 03:12:04,40.3,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1008,Whole Blood,Light Rain,Partial Delivery,34
+FLT-00128,ZIP-30,BAT-1390,2023-02-18 05:55:49,112.8,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,960,Whole Blood,Overcast,Returned - Weather,61
+FLT-00129,ZIP-30,BAT-1226,2023-07-03 08:28:58,32.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,329,Platelets,Foggy,Delivered,62
+FLT-00130,ZIP-11,BAT-1968,2023-09-10 09:21:00,85.9,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,823,Platelets,Partly Cloudy,Delivered,25
+FLT-00131,ZIP-21,BAT-1464,2023-04-02 10:29:41,28.7,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1573,Platelets,Partly Cloudy,Delivered,55
+FLT-00132,ZIP-29,BAT-1501,2023-10-10 10:23:41,136.2,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1035,Fresh Frozen Plasma,Light Rain,Returned - Weather,20
+FLT-00133,ZIP-21,BAT-1101,2023-05-25 03:35:22,136.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1315,Fresh Frozen Plasma,Light Rain,Delivered,21
+FLT-00134,ZIP-24,BAT-1843,2023-04-18 09:24:05,99.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,387,Packed Red Cells,Clear,Partial Delivery,59
+FLT-00135,ZIP-17,BAT-1341,2023-08-21 03:48:13,142.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,457,Packed Red Cells,Clear,Partial Delivery,22
+FLT-00136,ZIP-14,BAT-1792,2023-03-22 16:50:47,113.9,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1420,Whole Blood,Partly Cloudy,Delivered,35
+FLT-00137,ZIP-10,BAT-1676,2023-02-20 17:36:52,36.9,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,469,Whole Blood,Partly Cloudy,Delivered,40
+FLT-00138,ZIP-14,BAT-1053,2023-08-17 22:30:25,35.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1719,Platelets,Partly Cloudy,Delivered,51
+FLT-00139,ZIP-13,BAT-1607,2023-10-17 20:06:14,22.1,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1125,Packed Red Cells,Light Rain,Partial Delivery,57
+FLT-00140,ZIP-10,BAT-1987,2023-10-10 16:23:45,27.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,324,Platelets,Foggy,Delivered,72
+FLT-00141,ZIP-12,BAT-1075,2023-06-15 19:09:29,103.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,859,Packed Red Cells,Light Rain,Returned - Technical,22
+FLT-00142,ZIP-29,BAT-1390,2023-04-18 01:20:05,37.6,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1286,Fresh Frozen Plasma,Foggy,Returned - Weather,47
+FLT-00143,ZIP-30,BAT-1670,2023-08-24 08:59:12,112.6,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1774,Packed Red Cells,Clear,Partial Delivery,45
+FLT-00144,ZIP-22,BAT-1464,2023-12-12 03:36:29,99.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1051,Whole Blood,Overcast,Partial Delivery,38
+FLT-00145,ZIP-25,BAT-1703,2023-05-02 14:55:50,103.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,337,Whole Blood,Overcast,Delivered,71
+FLT-00146,ZIP-27,BAT-1133,2023-02-06 10:58:03,25.1,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,322,Fresh Frozen Plasma,Overcast,Partial Delivery,60
+FLT-00147,ZIP-19,BAT-1052,2023-06-09 19:00:50,24.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1429,Fresh Frozen Plasma,Light Rain,Partial Delivery,40
+FLT-00148,ZIP-17,BAT-1493,2023-08-13 16:35:27,25.7,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,421,Fresh Frozen Plasma,Partly Cloudy,Returned - Technical,72
+FLT-00149,ZIP-23,BAT-1231,2023-05-23 23:55:02,110.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1348,Whole Blood,Overcast,Returned - Weather,56
+FLT-00150,ZIP-19,BAT-1279,2023-11-19 09:08:05,140.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,895,Fresh Frozen Plasma,Clear,Delivered,18
+FLT-00151,ZIP-10,BAT-1648,2023-12-05 01:42:29,33.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,387,Packed Red Cells,Light Rain,Returned - Weather,42
+FLT-00152,ZIP-20,BAT-1738,2023-06-26 10:17:06,100.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1790,Whole Blood,Overcast,Delivered,21
+FLT-00153,ZIP-18,BAT-1083,2023-03-03 09:09:59,38.6,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1107,Platelets,Clear,Returned - Technical,49
+FLT-00154,ZIP-13,BAT-1524,2023-06-21 22:09:01,112.5,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,906,Platelets,Partly Cloudy,Partial Delivery,25
+FLT-00155,ZIP-17,BAT-1046,2023-09-21 15:26:56,88.1,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1009,Whole Blood,Light Rain,Returned - Weather,18
+FLT-00156,ZIP-19,BAT-1261,2023-04-28 07:25:55,40.1,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,871,Whole Blood,Partly Cloudy,Partial Delivery,18
+FLT-00157,ZIP-17,BAT-1545,2023-10-18 08:40:34,101.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1224,Fresh Frozen Plasma,Partly Cloudy,Delivered,22
+FLT-00158,ZIP-20,BAT-1079,2023-12-01 22:13:33,103.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1379,Platelets,Light Rain,Delivered,54
+FLT-00159,ZIP-10,BAT-1414,2023-10-03 19:00:34,102.8,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,865,Packed Red Cells,Overcast,Delivered,69
+FLT-00160,ZIP-13,BAT-1447,2023-06-28 22:24:50,115.8,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,698,Platelets,Overcast,Delivered,55
+FLT-00161,ZIP-17,BAT-1347,2023-07-23 17:41:05,98.3,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,882,Packed Red Cells,Overcast,Returned - Technical,22
+FLT-00162,ZIP-21,BAT-1357,2023-09-04 04:04:54,110.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1689,Packed Red Cells,Foggy,Delivered,33
+FLT-00163,ZIP-30,BAT-1156,2023-02-27 02:57:32,23.6,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,354,Packed Red Cells,Partly Cloudy,Returned - Weather,67
+FLT-00164,ZIP-28,BAT-1697,2023-07-12 03:30:16,138.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1516,Fresh Frozen Plasma,Foggy,Partial Delivery,58
+FLT-00165,ZIP-18,BAT-1815,2023-02-28 21:01:29,86.1,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1411,Whole Blood,Light Rain,Delivered,40
+FLT-00166,ZIP-19,BAT-1851,2023-01-30 01:30:25,111.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,357,Whole Blood,Light Rain,Returned - Weather,57
+FLT-00167,ZIP-11,BAT-1756,2023-07-17 04:12:52,112.2,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1121,Packed Red Cells,Foggy,Returned - Weather,38
+FLT-00168,ZIP-20,BAT-1105,2023-07-04 23:11:01,113.2,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1662,Whole Blood,Clear,Delivered,50
+FLT-00169,ZIP-15,BAT-1624,2023-03-09 06:21:56,135.2,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,945,Fresh Frozen Plasma,Light Rain,Delivered,36
+FLT-00170,ZIP-20,BAT-1662,2023-06-09 00:00:24,103.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,334,Fresh Frozen Plasma,Foggy,Delivered,24
+FLT-00171,ZIP-29,BAT-1872,2023-09-21 16:57:13,112.3,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,507,Fresh Frozen Plasma,Overcast,Returned - Technical,23
+FLT-00172,ZIP-30,BAT-1990,2023-09-15 23:18:47,110.3,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1630,Platelets,Overcast,Delivered,26
+FLT-00173,ZIP-30,BAT-1385,2023-10-03 12:48:42,116.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,872,Packed Red Cells,Overcast,Returned - Weather,60
+FLT-00174,ZIP-26,BAT-1433,2023-11-19 04:27:27,142.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,941,Whole Blood,Foggy,Delivered,41
+FLT-00175,ZIP-16,BAT-1497,2023-03-12 06:10:19,90.2,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,663,Packed Red Cells,Overcast,Partial Delivery,27
+FLT-00176,ZIP-27,BAT-1789,2023-04-26 02:58:55,28.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1712,Whole Blood,Clear,Returned - Weather,60
+FLT-00177,ZIP-14,BAT-1385,2023-12-07 14:34:21,88.8,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,532,Packed Red Cells,Partly Cloudy,Returned - Weather,71
+FLT-00178,ZIP-11,BAT-1448,2023-10-27 17:09:09,139.9,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1041,Fresh Frozen Plasma,Partly Cloudy,Returned - Technical,61
+FLT-00179,ZIP-24,BAT-1802,2023-04-03 11:56:30,142.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,679,Packed Red Cells,Foggy,Delivered,37
+FLT-00180,ZIP-28,BAT-1969,2023-12-18 07:39:05,104.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1102,Platelets,Overcast,Returned - Technical,67
+FLT-00181,ZIP-16,BAT-1836,2023-10-30 10:38:30,85.7,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1438,Packed Red Cells,Foggy,Delivered,34
+FLT-00182,ZIP-13,BAT-1956,2023-09-07 06:13:18,25.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1656,Whole Blood,Overcast,Returned - Weather,36
+FLT-00183,ZIP-12,BAT-1447,2023-10-24 14:45:51,22.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,654,Platelets,Light Rain,Returned - Weather,40
+FLT-00184,ZIP-21,BAT-1083,2023-06-11 09:07:10,22.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,659,Whole Blood,Foggy,Returned - Weather,38
+FLT-00185,ZIP-14,BAT-1149,2023-11-23 03:41:23,27.3,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,278,Fresh Frozen Plasma,Overcast,Partial Delivery,71
+FLT-00186,ZIP-12,BAT-1927,2023-09-28 13:51:40,104.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,238,Fresh Frozen Plasma,Light Rain,Delivered,31
+FLT-00187,ZIP-19,BAT-1794,2023-08-02 09:13:34,40.1,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,686,Fresh Frozen Plasma,Foggy,Returned - Weather,25
+FLT-00188,ZIP-25,BAT-1856,2023-04-03 20:25:02,25.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1422,Whole Blood,Foggy,Returned - Weather,58
+FLT-00189,ZIP-10,BAT-1439,2023-08-12 13:49:50,111.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1459,Fresh Frozen Plasma,Partly Cloudy,Delivered,33
+FLT-00190,ZIP-21,BAT-1998,2023-06-12 00:41:29,110.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,338,Whole Blood,Clear,Returned - Weather,42
+FLT-00191,ZIP-10,BAT-1765,2023-01-18 03:46:12,102.8,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,931,Whole Blood,Overcast,Delivered,40
+FLT-00192,ZIP-20,BAT-1595,2023-10-12 21:30:19,37.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,473,Whole Blood,Clear,Partial Delivery,40
+FLT-00193,ZIP-24,BAT-1797,2023-05-12 17:29:20,115.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1624,Platelets,Partly Cloudy,Partial Delivery,58
+FLT-00194,ZIP-16,BAT-1044,2023-11-12 09:42:23,33.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,285,Fresh Frozen Plasma,Light Rain,Returned - Weather,37
+FLT-00195,ZIP-30,BAT-1771,2023-06-04 21:43:01,117.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,591,Fresh Frozen Plasma,Foggy,Returned - Weather,40
+FLT-00196,ZIP-21,BAT-1818,2023-12-03 11:49:29,26.8,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1094,Platelets,Overcast,Delivered,65
+FLT-00197,ZIP-25,BAT-1508,2023-12-14 16:37:32,105.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,952,Fresh Frozen Plasma,Overcast,Delivered,69
+FLT-00198,ZIP-27,BAT-1184,2023-10-10 14:53:20,25.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,801,Fresh Frozen Plasma,Light Rain,Returned - Weather,24
+FLT-00199,ZIP-23,BAT-1617,2023-05-08 14:26:06,26.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,541,Platelets,Overcast,Delivered,40
+FLT-00200,ZIP-18,BAT-1445,2023-01-17 16:46:43,103.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1509,Whole Blood,Overcast,Returned - Weather,22
+FLT-00201,ZIP-10,BAT-1163,2023-09-05 20:02:51,138.2,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,492,Platelets,Foggy,Partial Delivery,20
+FLT-00202,ZIP-28,BAT-1392,2023-01-27 08:39:37,34.5,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,266,Packed Red Cells,Overcast,Delivered,61
+FLT-00203,ZIP-26,BAT-1140,2023-05-25 07:38:23,100.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,951,Platelets,Clear,Returned - Weather,38
+FLT-00204,ZIP-15,BAT-1753,2023-04-19 11:34:36,136.9,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1222,Platelets,Clear,Delivered,53
+FLT-00205,ZIP-25,BAT-1292,2023-04-12 21:56:07,27.8,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,609,Whole Blood,Light Rain,Delivered,26
+FLT-00206,ZIP-20,BAT-1990,2023-06-25 19:20:35,23.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1567,Fresh Frozen Plasma,Light Rain,Delivered,63
+FLT-00207,ZIP-30,BAT-1161,2023-08-02 20:20:41,25.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,556,Fresh Frozen Plasma,Overcast,Partial Delivery,50
+FLT-00208,ZIP-25,BAT-1809,2023-02-17 09:10:48,40.5,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,253,Fresh Frozen Plasma,Partly Cloudy,Delivered,53
+FLT-00209,ZIP-12,BAT-1088,2023-05-24 12:30:04,112.9,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,833,Platelets,Foggy,Delivered,63
+FLT-00210,ZIP-20,BAT-1128,2023-07-06 03:28:55,139.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1515,Whole Blood,Light Rain,Partial Delivery,46
+FLT-00211,ZIP-27,BAT-1798,2023-09-22 09:04:30,101.8,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1510,Packed Red Cells,Partly Cloudy,Partial Delivery,67
+FLT-00212,ZIP-26,BAT-1127,2023-06-18 06:17:40,36.6,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,513,Fresh Frozen Plasma,Clear,Partial Delivery,28
+FLT-00213,ZIP-26,BAT-1970,2023-05-06 13:24:58,40.1,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,781,Whole Blood,Partly Cloudy,Delivered,34
+FLT-00214,ZIP-19,BAT-1640,2023-09-04 21:09:39,40.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1458,Whole Blood,Overcast,Delivered,50
+FLT-00215,ZIP-29,BAT-1639,2023-03-07 17:48:01,139.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,891,Whole Blood,Foggy,Returned - Weather,70
+FLT-00216,ZIP-28,BAT-1785,2023-02-01 19:03:06,22.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1053,Whole Blood,Foggy,Delivered,49
+FLT-00217,ZIP-22,BAT-1250,2023-08-01 03:09:02,137.2,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,809,Platelets,Overcast,Delivered,22
+FLT-00218,ZIP-29,BAT-1348,2023-01-24 12:25:47,136.2,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,494,Fresh Frozen Plasma,Light Rain,Delivered,63
+FLT-00219,ZIP-21,BAT-1133,2023-10-13 09:14:15,90.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1254,Whole Blood,Overcast,Delivered,38
+FLT-00220,ZIP-19,BAT-1051,2023-07-01 09:50:22,33.6,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,986,Platelets,Light Rain,Returned - Weather,33
+FLT-00221,ZIP-15,BAT-1781,2023-11-13 04:09:47,35.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1220,Platelets,Foggy,Returned - Technical,49
+FLT-00222,ZIP-16,BAT-1246,2023-07-13 09:49:37,82.8,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1394,Fresh Frozen Plasma,Light Rain,Returned - Weather,21
+FLT-00223,ZIP-13,BAT-1867,2023-04-20 12:25:52,25.6,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1082,Packed Red Cells,Light Rain,Delivered,34
+FLT-00224,ZIP-11,BAT-1410,2023-05-23 07:17:40,141.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1367,Packed Red Cells,Overcast,Delivered,41
+FLT-00225,ZIP-29,BAT-1286,2023-04-23 07:57:46,109.8,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1593,Whole Blood,Foggy,Delivered,26
+FLT-00226,ZIP-21,BAT-1961,2023-06-03 05:26:55,24.6,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1746,Packed Red Cells,Overcast,Returned - Weather,30
+FLT-00227,ZIP-14,BAT-1039,2023-07-17 23:21:56,112.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1661,Fresh Frozen Plasma,Clear,Delivered,69
+FLT-00228,ZIP-29,BAT-1953,2023-07-21 22:31:54,101.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,852,Packed Red Cells,Foggy,Returned - Weather,43
+FLT-00229,ZIP-27,BAT-1521,2023-10-15 08:57:21,115.9,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1203,Fresh Frozen Plasma,Foggy,Delivered,48
+FLT-00230,ZIP-19,BAT-1597,2023-05-24 07:20:37,24.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1685,Whole Blood,Clear,Delivered,56
+FLT-00231,ZIP-28,BAT-1052,2023-04-14 08:55:22,105.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1183,Packed Red Cells,Foggy,Returned - Weather,51
+FLT-00232,ZIP-11,BAT-1248,2023-10-08 07:54:40,139.9,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1372,Whole Blood,Light Rain,Delivered,30
+FLT-00233,ZIP-16,BAT-1707,2023-06-21 12:46:38,24.1,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1040,Platelets,Partly Cloudy,Delivered,72
+FLT-00234,ZIP-27,BAT-1212,2023-10-10 17:52:44,135.4,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,865,Platelets,Partly Cloudy,Returned - Weather,51
+FLT-00235,ZIP-30,BAT-1362,2023-05-03 02:23:10,105.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1619,Fresh Frozen Plasma,Light Rain,Returned - Weather,57
+FLT-00236,ZIP-17,BAT-1305,2023-03-16 22:01:54,105.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,809,Fresh Frozen Plasma,Overcast,Returned - Weather,63
+FLT-00237,ZIP-27,BAT-1357,2023-09-26 07:30:08,38.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1677,Fresh Frozen Plasma,Overcast,Delivered,36
+FLT-00238,ZIP-14,BAT-1977,2023-08-11 23:11:28,27.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,794,Whole Blood,Light Rain,Delivered,36
+FLT-00239,ZIP-16,BAT-1490,2023-01-31 22:36:27,137.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,613,Fresh Frozen Plasma,Light Rain,Returned - Weather,53
+FLT-00240,ZIP-11,BAT-1248,2023-04-16 17:41:44,136.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1571,Packed Red Cells,Foggy,Returned - Technical,58
+FLT-00241,ZIP-13,BAT-1483,2023-01-21 15:15:09,33.4,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1595,Packed Red Cells,Overcast,Returned - Technical,18
+FLT-00242,ZIP-19,BAT-1774,2023-12-28 01:50:12,110.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,857,Fresh Frozen Plasma,Light Rain,Delivered,59
+FLT-00243,ZIP-11,BAT-1740,2023-12-19 20:35:08,27.7,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,558,Platelets,Foggy,Delivered,71
+FLT-00244,ZIP-19,BAT-1959,2023-12-29 22:47:22,39.9,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,276,Whole Blood,Light Rain,Partial Delivery,37
+FLT-00245,ZIP-30,BAT-1465,2023-08-23 08:20:40,110.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1312,Platelets,Overcast,Delivered,26
+FLT-00246,ZIP-24,BAT-1166,2023-07-02 00:16:11,111.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1527,Fresh Frozen Plasma,Clear,Delivered,63
+FLT-00247,ZIP-16,BAT-1690,2023-01-06 17:16:27,38.5,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,559,Platelets,Overcast,Returned - Weather,70
+FLT-00248,ZIP-25,BAT-1143,2023-07-20 08:45:49,100.3,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,862,Packed Red Cells,Light Rain,Returned - Weather,18
+FLT-00249,ZIP-28,BAT-1309,2023-05-30 05:10:20,84.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1680,Whole Blood,Overcast,Delivered,34
+FLT-00250,ZIP-24,BAT-1121,2023-05-20 21:16:06,140.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,828,Packed Red Cells,Clear,Returned - Technical,43
+FLT-00251,ZIP-30,BAT-1120,2023-07-15 09:49:48,142.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,804,Fresh Frozen Plasma,Overcast,Returned - Technical,57
+FLT-00252,ZIP-21,BAT-1620,2023-03-27 08:25:35,40.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1051,Platelets,Light Rain,Delivered,66
+FLT-00253,ZIP-29,BAT-1253,2023-11-08 17:08:06,114.5,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,367,Platelets,Partly Cloudy,Partial Delivery,51
+FLT-00254,ZIP-26,BAT-1560,2023-05-21 18:04:45,135.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,614,Packed Red Cells,Foggy,Returned - Weather,28
+FLT-00255,ZIP-28,BAT-1210,2023-11-29 02:23:12,86.8,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1201,Whole Blood,Clear,Returned - Technical,50
+FLT-00256,ZIP-24,BAT-1425,2023-11-11 07:33:23,98.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1354,Whole Blood,Partly Cloudy,Returned - Weather,53
+FLT-00257,ZIP-10,BAT-1260,2023-09-19 12:38:58,104.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1727,Packed Red Cells,Clear,Delivered,55
+FLT-00258,ZIP-12,BAT-1061,2023-01-18 20:07:53,25.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1166,Whole Blood,Clear,Returned - Weather,36
+FLT-00259,ZIP-24,BAT-1391,2023-03-12 03:32:51,103.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,973,Platelets,Light Rain,Delivered,23
+FLT-00260,ZIP-21,BAT-1880,2023-09-15 06:21:12,141.9,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,442,Packed Red Cells,Partly Cloudy,Returned - Technical,52
+FLT-00261,ZIP-10,BAT-1003,2023-07-25 15:10:11,98.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,811,Platelets,Partly Cloudy,Partial Delivery,61
+FLT-00262,ZIP-21,BAT-1471,2023-07-31 16:35:54,138.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,517,Fresh Frozen Plasma,Light Rain,Returned - Weather,30
+FLT-00263,ZIP-10,BAT-1904,2023-10-25 12:52:59,135.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,692,Packed Red Cells,Light Rain,Returned - Weather,22
+FLT-00264,ZIP-17,BAT-1049,2023-08-19 21:57:38,21.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1716,Whole Blood,Foggy,Returned - Technical,43
+FLT-00265,ZIP-19,BAT-1515,2023-04-02 06:12:01,102.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,679,Fresh Frozen Plasma,Clear,Delivered,54
+FLT-00266,ZIP-14,BAT-1309,2023-10-28 06:34:40,114.6,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1552,Packed Red Cells,Overcast,Delivered,44
+FLT-00267,ZIP-23,BAT-1641,2023-04-18 02:37:13,83.1,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1338,Platelets,Foggy,Returned - Technical,21
+FLT-00268,ZIP-14,BAT-1418,2023-09-08 02:08:25,88.0,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,814,Platelets,Foggy,Delivered,29
+FLT-00269,ZIP-14,BAT-1878,2023-07-04 03:30:55,111.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1148,Whole Blood,Partly Cloudy,Delivered,53
+FLT-00270,ZIP-18,BAT-1248,2023-06-12 00:08:04,102.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,616,Fresh Frozen Plasma,Partly Cloudy,Delivered,59
+FLT-00271,ZIP-16,BAT-1548,2023-12-25 09:46:13,25.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,305,Fresh Frozen Plasma,Overcast,Delivered,42
+FLT-00272,ZIP-28,BAT-1823,2023-08-24 04:43:26,139.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1683,Packed Red Cells,Clear,Delivered,48
+FLT-00273,ZIP-16,BAT-1216,2023-12-04 22:05:01,39.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1718,Whole Blood,Overcast,Delivered,65
+FLT-00274,ZIP-17,BAT-1937,2023-12-22 09:12:38,99.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1330,Fresh Frozen Plasma,Foggy,Returned - Weather,67
+FLT-00275,ZIP-21,BAT-1267,2023-05-29 02:01:28,86.4,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1250,Platelets,Overcast,Delivered,47
+FLT-00276,ZIP-16,BAT-1936,2023-11-09 00:47:35,29.5,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,959,Fresh Frozen Plasma,Light Rain,Partial Delivery,44
+FLT-00277,ZIP-27,BAT-1267,2023-08-07 17:06:37,28.5,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1396,Platelets,Partly Cloudy,Delivered,36
+FLT-00278,ZIP-27,BAT-1511,2023-03-18 10:38:23,35.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1540,Fresh Frozen Plasma,Light Rain,Returned - Weather,34
+FLT-00279,ZIP-21,BAT-1814,2023-10-09 06:02:55,102.8,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,546,Packed Red Cells,Light Rain,Returned - Weather,64
+FLT-00280,ZIP-11,BAT-1536,2023-07-09 21:26:16,110.6,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,352,Whole Blood,Foggy,Returned - Technical,66
+FLT-00281,ZIP-14,BAT-1724,2023-06-10 09:46:26,22.7,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,218,Packed Red Cells,Partly Cloudy,Delivered,50
+FLT-00282,ZIP-10,BAT-1016,2023-05-26 04:28:57,98.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1289,Platelets,Foggy,Delivered,18
+FLT-00283,ZIP-23,BAT-1832,2023-07-25 20:31:48,27.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,567,Whole Blood,Foggy,Returned - Weather,24
+FLT-00284,ZIP-18,BAT-1362,2023-02-28 01:49:30,111.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1012,Whole Blood,Foggy,Returned - Weather,41
+FLT-00285,ZIP-12,BAT-1700,2023-06-28 12:10:08,102.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1538,Whole Blood,Partly Cloudy,Delivered,23
+FLT-00286,ZIP-15,BAT-1719,2023-05-28 12:59:48,100.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,369,Platelets,Light Rain,Delivered,72
+FLT-00287,ZIP-26,BAT-1916,2023-09-08 16:58:16,104.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,287,Packed Red Cells,Foggy,Partial Delivery,31
+FLT-00288,ZIP-12,BAT-1946,2023-12-11 22:36:20,139.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1601,Fresh Frozen Plasma,Overcast,Delivered,52
+FLT-00289,ZIP-16,BAT-1984,2023-09-13 20:01:21,109.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1402,Packed Red Cells,Overcast,Delivered,66
+FLT-00290,ZIP-28,BAT-1166,2023-11-16 01:21:53,138.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,692,Platelets,Clear,Delivered,61
+FLT-00291,ZIP-12,BAT-1705,2023-05-10 01:56:46,112.2,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1225,Fresh Frozen Plasma,Partly Cloudy,Partial Delivery,21
+FLT-00292,ZIP-29,BAT-1619,2023-06-19 23:57:28,23.5,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1419,Platelets,Clear,Delivered,67
+FLT-00293,ZIP-22,BAT-1566,2023-01-12 18:07:52,87.7,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1084,Packed Red Cells,Light Rain,Returned - Weather,61
+FLT-00294,ZIP-12,BAT-1730,2023-09-14 19:54:30,112.2,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,368,Fresh Frozen Plasma,Foggy,Delivered,27
+FLT-00295,ZIP-20,BAT-1398,2023-10-04 15:18:42,104.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,938,Whole Blood,Partly Cloudy,Returned - Technical,23
+FLT-00296,ZIP-12,BAT-1135,2023-04-30 23:15:39,25.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,583,Platelets,Overcast,Delivered,46
+FLT-00297,ZIP-21,BAT-1091,2023-08-04 16:33:05,113.3,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1335,Whole Blood,Clear,Delivered,56
+FLT-00298,ZIP-12,BAT-1397,2023-11-01 21:29:55,111.8,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1684,Packed Red Cells,Light Rain,Returned - Weather,54
+FLT-00299,ZIP-19,BAT-1275,2023-03-08 02:37:38,114.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,749,Platelets,Partly Cloudy,Delivered,27
+FLT-00300,ZIP-21,BAT-1078,2023-03-07 04:29:09,25.1,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,715,Packed Red Cells,Light Rain,Delivered,64
+FLT-00301,ZIP-14,BAT-1109,2023-07-12 19:12:49,139.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,823,Whole Blood,Partly Cloudy,Delivered,43
+FLT-00302,ZIP-23,BAT-1342,2023-11-24 02:24:19,87.6,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1533,Packed Red Cells,Overcast,Delivered,37
+FLT-00303,ZIP-15,BAT-1321,2023-08-23 12:20:11,90.2,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1015,Fresh Frozen Plasma,Partly Cloudy,Delivered,36
+FLT-00304,ZIP-18,BAT-1385,2023-09-28 03:28:33,140.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1004,Fresh Frozen Plasma,Foggy,Returned - Weather,25
+FLT-00305,ZIP-10,BAT-1563,2023-03-19 20:16:17,113.9,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1689,Platelets,Foggy,Delivered,63
+FLT-00306,ZIP-23,BAT-1868,2023-06-20 12:41:46,39.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1578,Platelets,Clear,Partial Delivery,26
+FLT-00307,ZIP-22,BAT-1433,2023-04-28 20:36:17,136.9,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,351,Platelets,Partly Cloudy,Returned - Technical,56
+FLT-00308,ZIP-11,BAT-1556,2023-08-15 08:54:27,100.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,936,Whole Blood,Foggy,Partial Delivery,24
+FLT-00309,ZIP-11,BAT-1627,2023-09-13 15:17:29,37.9,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1353,Platelets,Partly Cloudy,Returned - Technical,66
+FLT-00310,ZIP-17,BAT-1264,2023-11-06 11:24:41,86.1,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1245,Packed Red Cells,Clear,Delivered,46
+FLT-00311,ZIP-10,BAT-1353,2023-06-02 03:38:04,86.3,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1188,Whole Blood,Foggy,Returned - Technical,36
+FLT-00312,ZIP-14,BAT-1963,2023-12-24 18:07:29,105.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,913,Fresh Frozen Plasma,Clear,Partial Delivery,39
+FLT-00313,ZIP-24,BAT-1448,2023-11-01 19:55:34,99.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,853,Whole Blood,Light Rain,Delivered,37
+FLT-00314,ZIP-30,BAT-1351,2023-11-11 21:28:48,27.3,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,423,Packed Red Cells,Clear,Partial Delivery,65
+FLT-00315,ZIP-23,BAT-1573,2023-07-20 15:24:42,34.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1146,Packed Red Cells,Partly Cloudy,Delivered,69
+FLT-00316,ZIP-16,BAT-1628,2023-09-02 19:47:29,99.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1120,Platelets,Light Rain,Returned - Weather,42
+FLT-00317,ZIP-12,BAT-1720,2023-10-01 22:36:43,23.3,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1382,Whole Blood,Overcast,Partial Delivery,69
+FLT-00318,ZIP-18,BAT-1116,2023-03-14 20:35:31,112.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1573,Platelets,Partly Cloudy,Delivered,51
+FLT-00319,ZIP-21,BAT-1356,2023-05-02 23:08:16,139.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1137,Packed Red Cells,Foggy,Delivered,70
+FLT-00320,ZIP-20,BAT-1137,2023-10-02 10:17:18,141.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,441,Packed Red Cells,Foggy,Returned - Weather,37
+FLT-00321,ZIP-23,BAT-1397,2023-03-13 08:05:54,24.6,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1421,Packed Red Cells,Partly Cloudy,Returned - Weather,54
+FLT-00322,ZIP-15,BAT-1953,2023-06-14 13:00:26,99.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1336,Packed Red Cells,Foggy,Returned - Technical,49
+FLT-00323,ZIP-10,BAT-1367,2023-02-24 17:39:30,84.1,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1192,Packed Red Cells,Light Rain,Returned - Weather,30
+FLT-00324,ZIP-24,BAT-1425,2023-08-07 08:19:27,101.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1200,Packed Red Cells,Light Rain,Delivered,23
+FLT-00325,ZIP-18,BAT-1033,2023-01-13 05:38:33,115.5,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,660,Fresh Frozen Plasma,Partly Cloudy,Delivered,28
+FLT-00326,ZIP-13,BAT-1586,2023-08-08 22:14:39,103.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,748,Fresh Frozen Plasma,Light Rain,Returned - Weather,52
+FLT-00327,ZIP-30,BAT-1104,2023-10-23 09:45:06,27.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1738,Packed Red Cells,Foggy,Delivered,37
+FLT-00328,ZIP-13,BAT-1886,2023-06-24 21:48:33,23.7,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1788,Packed Red Cells,Clear,Delivered,31
+FLT-00329,ZIP-14,BAT-1630,2023-08-17 13:50:52,140.4,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,623,Packed Red Cells,Foggy,Returned - Technical,69
+FLT-00330,ZIP-15,BAT-1551,2023-08-10 15:28:40,24.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,862,Fresh Frozen Plasma,Overcast,Returned - Weather,36
+FLT-00331,ZIP-23,BAT-1138,2023-04-15 01:49:04,116.8,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,321,Fresh Frozen Plasma,Foggy,Returned - Technical,59
+FLT-00332,ZIP-20,BAT-1728,2023-09-30 15:46:08,39.5,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,706,Platelets,Partly Cloudy,Delivered,49
+FLT-00333,ZIP-12,BAT-1648,2023-08-13 11:59:45,37.6,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1025,Fresh Frozen Plasma,Light Rain,Delivered,62
+FLT-00334,ZIP-12,BAT-1002,2023-06-26 20:04:14,90.2,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1696,Platelets,Overcast,Returned - Weather,58
+FLT-00335,ZIP-22,BAT-1547,2023-09-29 01:12:15,137.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,646,Platelets,Clear,Partial Delivery,70
+FLT-00336,ZIP-28,BAT-1560,2023-07-12 09:04:39,34.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,467,Platelets,Overcast,Delivered,68
+FLT-00337,ZIP-30,BAT-1101,2023-12-14 12:07:31,88.1,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1141,Whole Blood,Clear,Delivered,25
+FLT-00338,ZIP-14,BAT-1931,2023-06-21 15:04:59,36.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1531,Fresh Frozen Plasma,Light Rain,Delivered,28
+FLT-00339,ZIP-30,BAT-1380,2023-02-06 11:59:30,87.9,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,538,Whole Blood,Overcast,Delivered,43
+FLT-00340,ZIP-12,BAT-1671,2023-04-29 21:33:09,140.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1641,Whole Blood,Partly Cloudy,Delivered,18
+FLT-00341,ZIP-10,BAT-1455,2023-07-05 10:09:38,33.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,216,Fresh Frozen Plasma,Foggy,Delivered,70
+FLT-00342,ZIP-17,BAT-1072,2023-12-01 08:57:09,25.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,984,Whole Blood,Partly Cloudy,Delivered,64
+FLT-00343,ZIP-14,BAT-1391,2023-02-10 07:54:28,24.1,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1513,Packed Red Cells,Overcast,Delivered,22
+FLT-00344,ZIP-16,BAT-1359,2023-08-08 00:15:16,109.2,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1486,Packed Red Cells,Partly Cloudy,Delivered,44
+FLT-00345,ZIP-13,BAT-1918,2023-09-24 21:15:37,112.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,486,Whole Blood,Partly Cloudy,Delivered,55
+FLT-00346,ZIP-18,BAT-1253,2023-05-30 09:26:12,137.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1520,Whole Blood,Light Rain,Delivered,33
+FLT-00347,ZIP-10,BAT-1707,2023-08-22 15:43:02,114.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1548,Fresh Frozen Plasma,Foggy,Delivered,31
+FLT-00348,ZIP-17,BAT-1802,2023-08-24 22:58:06,113.2,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1213,Platelets,Light Rain,Delivered,25
+FLT-00349,ZIP-10,BAT-1910,2023-07-14 06:26:48,37.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,939,Fresh Frozen Plasma,Clear,Returned - Weather,26
+FLT-00350,ZIP-25,BAT-1176,2023-12-01 13:22:04,104.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1777,Whole Blood,Light Rain,Delivered,19
+FLT-00351,ZIP-11,BAT-1944,2023-01-27 11:26:57,109.3,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1015,Fresh Frozen Plasma,Partly Cloudy,Delivered,58
+FLT-00352,ZIP-27,BAT-1655,2023-07-14 20:06:53,141.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1301,Packed Red Cells,Light Rain,Returned - Technical,35
+FLT-00353,ZIP-27,BAT-1159,2023-05-01 14:32:29,22.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,869,Platelets,Partly Cloudy,Partial Delivery,55
+FLT-00354,ZIP-23,BAT-1715,2023-10-24 15:45:52,141.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1694,Packed Red Cells,Clear,Delivered,21
+FLT-00355,ZIP-29,BAT-1626,2023-02-03 17:33:41,40.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,312,Fresh Frozen Plasma,Clear,Delivered,60
+FLT-00356,ZIP-14,BAT-1724,2023-09-13 19:29:33,140.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1636,Whole Blood,Clear,Delivered,28
+FLT-00357,ZIP-14,BAT-1380,2023-05-15 21:31:33,101.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1735,Fresh Frozen Plasma,Overcast,Delivered,64
+FLT-00358,ZIP-18,BAT-1439,2023-10-27 20:15:05,28.8,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1272,Whole Blood,Overcast,Partial Delivery,34
+FLT-00359,ZIP-25,BAT-1056,2023-08-13 04:46:59,139.9,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1360,Packed Red Cells,Light Rain,Delivered,41
+FLT-00360,ZIP-26,BAT-1233,2023-04-10 07:51:15,38.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,205,Whole Blood,Foggy,Returned - Technical,72
+FLT-00361,ZIP-14,BAT-1942,2023-04-06 05:23:05,22.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,566,Whole Blood,Overcast,Delivered,53
+FLT-00362,ZIP-23,BAT-1254,2023-10-15 21:30:21,140.2,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1675,Fresh Frozen Plasma,Partly Cloudy,Delivered,35
+FLT-00363,ZIP-17,BAT-1183,2023-08-11 05:06:04,24.6,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1256,Whole Blood,Foggy,Returned - Technical,43
+FLT-00364,ZIP-19,BAT-1865,2023-12-07 20:09:02,25.3,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,870,Whole Blood,Overcast,Partial Delivery,53
+FLT-00365,ZIP-19,BAT-1803,2023-01-04 08:16:41,100.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1714,Packed Red Cells,Overcast,Returned - Weather,47
+FLT-00366,ZIP-27,BAT-1922,2023-08-19 00:57:33,90.4,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1757,Packed Red Cells,Partly Cloudy,Returned - Technical,27
+FLT-00367,ZIP-30,BAT-1354,2023-12-29 08:34:29,24.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1620,Whole Blood,Partly Cloudy,Returned - Weather,39
+FLT-00368,ZIP-26,BAT-1210,2023-10-22 23:43:56,26.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,687,Platelets,Overcast,Delivered,49
+FLT-00369,ZIP-17,BAT-1943,2023-02-25 13:01:01,27.3,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1264,Platelets,Clear,Delivered,62
+FLT-00370,ZIP-26,BAT-1097,2023-06-28 07:08:18,90.4,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,473,Platelets,Clear,Returned - Weather,22
+FLT-00371,ZIP-18,BAT-1298,2023-08-09 18:28:22,109.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,845,Platelets,Partly Cloudy,Delivered,62
+FLT-00372,ZIP-16,BAT-1076,2023-05-07 22:53:06,137.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,478,Whole Blood,Overcast,Delivered,27
+FLT-00373,ZIP-27,BAT-1123,2023-03-06 02:05:09,25.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,933,Packed Red Cells,Overcast,Delivered,46
+FLT-00374,ZIP-19,BAT-1161,2023-06-30 04:42:11,84.8,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1643,Whole Blood,Clear,Delivered,31
+FLT-00375,ZIP-26,BAT-1405,2023-02-27 20:28:40,83.4,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,300,Fresh Frozen Plasma,Partly Cloudy,Delivered,34
+FLT-00376,ZIP-13,BAT-1255,2023-01-13 07:42:21,40.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1146,Whole Blood,Light Rain,Returned - Weather,69
+FLT-00377,ZIP-22,BAT-1202,2023-02-17 10:01:35,32.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,962,Whole Blood,Partly Cloudy,Delivered,55
+FLT-00378,ZIP-16,BAT-1066,2023-04-11 18:22:59,116.5,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1522,Platelets,Clear,Delivered,69
+FLT-00379,ZIP-24,BAT-1043,2023-02-05 23:18:10,39.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,303,Packed Red Cells,Overcast,Delivered,54
+FLT-00380,ZIP-15,BAT-1436,2023-11-16 08:39:46,103.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,924,Packed Red Cells,Light Rain,Delivered,29
+FLT-00381,ZIP-29,BAT-1628,2023-04-19 22:26:00,86.2,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1463,Packed Red Cells,Partly Cloudy,Delivered,59
+FLT-00382,ZIP-22,BAT-1286,2023-07-14 00:00:24,85.9,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,481,Platelets,Foggy,Returned - Weather,30
+FLT-00383,ZIP-27,BAT-1821,2023-12-10 19:33:32,141.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,239,Platelets,Partly Cloudy,Returned - Technical,68
+FLT-00384,ZIP-20,BAT-1514,2023-05-20 17:10:02,138.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,995,Fresh Frozen Plasma,Light Rain,Delivered,29
+FLT-00385,ZIP-18,BAT-1797,2023-05-05 02:09:15,26.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,319,Platelets,Clear,Partial Delivery,51
+FLT-00386,ZIP-17,BAT-1102,2023-10-26 01:29:13,87.3,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1545,Packed Red Cells,Partly Cloudy,Delivered,35
+FLT-00387,ZIP-17,BAT-1970,2023-11-14 06:19:44,115.5,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1379,Platelets,Clear,Partial Delivery,40
+FLT-00388,ZIP-21,BAT-1755,2023-03-10 15:22:27,34.5,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1411,Whole Blood,Overcast,Partial Delivery,63
+FLT-00389,ZIP-25,BAT-1192,2023-05-17 19:54:54,142.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1310,Fresh Frozen Plasma,Foggy,Delivered,29
+FLT-00390,ZIP-10,BAT-1224,2023-01-15 23:50:51,98.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1278,Platelets,Partly Cloudy,Returned - Weather,18
+FLT-00391,ZIP-15,BAT-1734,2023-12-23 17:24:45,87.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,862,Whole Blood,Partly Cloudy,Delivered,19
+FLT-00392,ZIP-26,BAT-1113,2023-08-17 01:35:37,38.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,947,Whole Blood,Partly Cloudy,Partial Delivery,41
+FLT-00393,ZIP-20,BAT-1309,2023-09-15 09:35:16,138.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,479,Packed Red Cells,Clear,Delivered,64
+FLT-00394,ZIP-27,BAT-1724,2023-11-04 18:30:26,102.8,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1620,Fresh Frozen Plasma,Light Rain,Returned - Technical,32
+FLT-00395,ZIP-14,BAT-1301,2023-08-17 23:24:47,141.4,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,563,Whole Blood,Light Rain,Delivered,62
+FLT-00396,ZIP-29,BAT-1325,2023-06-02 07:59:23,116.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,652,Whole Blood,Foggy,Returned - Weather,49
+FLT-00397,ZIP-15,BAT-1327,2023-05-09 20:42:48,38.5,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1502,Whole Blood,Partly Cloudy,Delivered,70
+FLT-00398,ZIP-18,BAT-1011,2023-09-18 11:04:53,140.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,629,Packed Red Cells,Overcast,Delivered,62
+FLT-00399,ZIP-11,BAT-1001,2023-05-17 08:43:16,23.7,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,990,Platelets,Clear,Returned - Technical,64
+FLT-00400,ZIP-13,BAT-1384,2023-03-06 20:23:11,104.8,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1181,Packed Red Cells,Light Rain,Delivered,28
+FLT-00401,ZIP-20,BAT-1020,2023-01-29 21:01:16,104.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,734,Whole Blood,Clear,Delivered,22
+FLT-00402,ZIP-27,BAT-1076,2023-03-08 07:29:43,89.7,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,390,Fresh Frozen Plasma,Partly Cloudy,Returned - Technical,56
+FLT-00403,ZIP-30,BAT-1965,2023-12-14 03:28:16,113.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,537,Platelets,Clear,Delivered,28
+FLT-00404,ZIP-27,BAT-1713,2023-02-09 13:47:28,24.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1678,Fresh Frozen Plasma,Partly Cloudy,Delivered,60
+FLT-00405,ZIP-27,BAT-1585,2023-04-26 17:58:29,84.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1205,Packed Red Cells,Clear,Delivered,21
+FLT-00406,ZIP-30,BAT-1677,2023-01-02 17:33:49,86.1,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1429,Platelets,Overcast,Partial Delivery,30
+FLT-00407,ZIP-13,BAT-1484,2023-01-11 05:52:26,23.3,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,831,Platelets,Overcast,Delivered,48
+FLT-00408,ZIP-22,BAT-1557,2023-12-14 18:51:45,103.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,578,Fresh Frozen Plasma,Clear,Returned - Technical,42
+FLT-00409,ZIP-18,BAT-1476,2023-03-14 17:04:44,86.2,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,663,Fresh Frozen Plasma,Overcast,Delivered,54
+FLT-00410,ZIP-21,BAT-1684,2023-02-28 22:38:23,27.6,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1308,Platelets,Clear,Delivered,66
+FLT-00411,ZIP-27,BAT-1988,2023-03-30 14:34:21,113.6,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1607,Platelets,Light Rain,Partial Delivery,54
+FLT-00412,ZIP-28,BAT-1514,2023-07-05 05:05:10,35.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1258,Packed Red Cells,Light Rain,Partial Delivery,25
+FLT-00413,ZIP-16,BAT-1827,2023-03-09 09:20:55,105.3,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,458,Whole Blood,Partly Cloudy,Delivered,45
+FLT-00414,ZIP-18,BAT-1609,2023-09-23 13:11:27,25.1,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,854,Whole Blood,Partly Cloudy,Partial Delivery,23
+FLT-00415,ZIP-26,BAT-1282,2023-08-05 07:41:24,100.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1138,Whole Blood,Overcast,Partial Delivery,68
+FLT-00416,ZIP-28,BAT-1151,2023-08-31 05:19:14,139.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1404,Whole Blood,Light Rain,Delivered,24
+FLT-00417,ZIP-21,BAT-1548,2023-10-30 23:52:59,110.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1041,Fresh Frozen Plasma,Overcast,Partial Delivery,42
+FLT-00418,ZIP-14,BAT-1412,2023-07-08 19:58:41,139.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1466,Platelets,Light Rain,Returned - Weather,20
+FLT-00419,ZIP-25,BAT-1763,2023-12-12 17:25:57,104.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,750,Fresh Frozen Plasma,Partly Cloudy,Delivered,19
+FLT-00420,ZIP-25,BAT-1863,2023-11-14 16:35:20,89.0,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1625,Whole Blood,Overcast,Delivered,32
+FLT-00421,ZIP-23,BAT-1275,2023-04-27 22:40:50,40.4,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1438,Whole Blood,Light Rain,Partial Delivery,30
+FLT-00422,ZIP-21,BAT-1528,2023-03-24 08:18:08,105.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,315,Packed Red Cells,Light Rain,Returned - Technical,22
+FLT-00423,ZIP-26,BAT-1871,2023-10-03 19:39:58,86.7,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1364,Whole Blood,Partly Cloudy,Partial Delivery,29
+FLT-00424,ZIP-24,BAT-1033,2023-12-07 03:16:26,39.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,303,Fresh Frozen Plasma,Clear,Delivered,63
+FLT-00425,ZIP-13,BAT-1945,2023-04-17 15:39:19,35.5,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1595,Whole Blood,Light Rain,Returned - Weather,33
+FLT-00426,ZIP-28,BAT-1485,2023-07-10 01:49:21,87.4,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1329,Fresh Frozen Plasma,Partly Cloudy,Partial Delivery,40
+FLT-00427,ZIP-22,BAT-1028,2023-11-22 13:29:56,39.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,301,Packed Red Cells,Clear,Delivered,72
+FLT-00428,ZIP-16,BAT-1230,2023-10-31 02:32:37,116.9,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,751,Platelets,Partly Cloudy,Returned - Technical,50
+FLT-00429,ZIP-14,BAT-1933,2023-12-03 00:56:06,27.8,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1525,Packed Red Cells,Clear,Delivered,56
+FLT-00430,ZIP-30,BAT-1990,2023-03-29 03:41:16,23.6,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,763,Platelets,Overcast,Returned - Technical,42
+FLT-00431,ZIP-29,BAT-1844,2023-06-28 12:10:17,84.6,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1013,Whole Blood,Light Rain,Delivered,18
+FLT-00432,ZIP-29,BAT-1662,2023-09-15 11:36:00,116.9,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1447,Fresh Frozen Plasma,Overcast,Returned - Weather,37
+FLT-00433,ZIP-20,BAT-1655,2023-02-12 05:36:26,138.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,767,Fresh Frozen Plasma,Overcast,Delivered,59
+FLT-00434,ZIP-17,BAT-1529,2023-12-13 19:31:35,140.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,316,Platelets,Partly Cloudy,Delivered,60
+FLT-00435,ZIP-19,BAT-1509,2023-09-22 15:06:12,83.7,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,731,Platelets,Clear,Returned - Technical,43
+FLT-00436,ZIP-17,BAT-1743,2023-10-14 08:50:27,98.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1605,Platelets,Foggy,Returned - Weather,60
+FLT-00437,ZIP-27,BAT-1673,2023-07-17 06:31:01,85.0,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,570,Fresh Frozen Plasma,Partly Cloudy,Partial Delivery,24
+FLT-00438,ZIP-20,BAT-1969,2023-02-19 22:31:32,103.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1540,Whole Blood,Foggy,Partial Delivery,32
+FLT-00439,ZIP-20,BAT-1807,2023-03-28 23:34:01,88.6,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,961,Fresh Frozen Plasma,Overcast,Delivered,55
+FLT-00440,ZIP-28,BAT-1597,2023-06-30 08:33:44,89.4,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1471,Whole Blood,Light Rain,Delivered,48
+FLT-00441,ZIP-14,BAT-1055,2023-07-14 14:47:14,33.5,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,481,Packed Red Cells,Light Rain,Returned - Weather,39
+FLT-00442,ZIP-15,BAT-1732,2023-08-10 09:13:33,104.8,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1795,Whole Blood,Light Rain,Delivered,49
+FLT-00443,ZIP-10,BAT-1059,2023-09-03 07:39:06,90.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1125,Fresh Frozen Plasma,Overcast,Returned - Technical,31
+FLT-00444,ZIP-14,BAT-1090,2023-08-13 01:18:31,38.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1458,Platelets,Light Rain,Partial Delivery,58
+FLT-00445,ZIP-16,BAT-1546,2023-06-06 21:53:59,101.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1696,Fresh Frozen Plasma,Light Rain,Returned - Weather,18
+FLT-00446,ZIP-10,BAT-1692,2023-10-22 04:19:55,89.3,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1483,Packed Red Cells,Partly Cloudy,Delivered,32
+FLT-00447,ZIP-26,BAT-1392,2023-12-07 20:05:38,137.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1405,Fresh Frozen Plasma,Partly Cloudy,Delivered,28
+FLT-00448,ZIP-26,BAT-1745,2023-11-17 04:46:51,22.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1421,Fresh Frozen Plasma,Overcast,Delivered,45
+FLT-00449,ZIP-22,BAT-1168,2023-02-22 05:00:28,137.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,239,Packed Red Cells,Light Rain,Delivered,32
+FLT-00450,ZIP-15,BAT-1516,2023-02-21 04:55:35,136.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,452,Fresh Frozen Plasma,Clear,Returned - Weather,63
+FLT-00451,ZIP-29,BAT-1547,2023-11-04 21:09:36,135.2,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,299,Whole Blood,Overcast,Partial Delivery,60
+FLT-00452,ZIP-23,BAT-1118,2023-09-12 01:41:30,28.3,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1109,Platelets,Clear,Returned - Technical,25
+FLT-00453,ZIP-30,BAT-1711,2023-04-09 09:41:29,113.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,219,Fresh Frozen Plasma,Partly Cloudy,Delivered,44
+FLT-00454,ZIP-14,BAT-1620,2023-02-09 11:12:01,140.2,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1057,Whole Blood,Overcast,Returned - Weather,50
+FLT-00455,ZIP-25,BAT-1108,2023-08-29 03:21:44,135.9,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,606,Packed Red Cells,Clear,Partial Delivery,67
+FLT-00456,ZIP-23,BAT-1720,2023-11-20 04:07:50,86.8,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,804,Packed Red Cells,Partly Cloudy,Delivered,20
+FLT-00457,ZIP-12,BAT-1013,2023-07-13 00:21:40,116.5,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,426,Platelets,Light Rain,Returned - Weather,27
+FLT-00458,ZIP-17,BAT-1659,2023-10-30 23:42:39,25.7,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1135,Fresh Frozen Plasma,Clear,Delivered,34
+FLT-00459,ZIP-19,BAT-1040,2023-01-20 16:46:52,98.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,937,Fresh Frozen Plasma,Partly Cloudy,Partial Delivery,45
+FLT-00460,ZIP-14,BAT-1872,2023-02-15 06:16:34,135.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1558,Packed Red Cells,Clear,Delivered,39
+FLT-00461,ZIP-21,BAT-1095,2023-12-14 15:36:06,86.1,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,901,Packed Red Cells,Foggy,Delivered,25
+FLT-00462,ZIP-25,BAT-1394,2023-06-05 16:36:08,105.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1063,Packed Red Cells,Overcast,Partial Delivery,25
+FLT-00463,ZIP-28,BAT-1426,2023-09-28 14:46:24,38.4,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1188,Platelets,Partly Cloudy,Delivered,29
+FLT-00464,ZIP-14,BAT-1901,2023-05-28 17:32:01,115.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1189,Platelets,Foggy,Delivered,25
+FLT-00465,ZIP-10,BAT-1321,2023-06-21 09:30:31,98.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1642,Packed Red Cells,Overcast,Returned - Technical,60
+FLT-00466,ZIP-17,BAT-1744,2023-07-21 20:21:34,86.8,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1186,Fresh Frozen Plasma,Foggy,Delivered,60
+FLT-00467,ZIP-15,BAT-1658,2023-09-07 08:19:22,138.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1235,Platelets,Foggy,Returned - Weather,72
+FLT-00468,ZIP-18,BAT-1993,2023-12-04 21:32:27,99.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,303,Packed Red Cells,Light Rain,Returned - Weather,53
+FLT-00469,ZIP-24,BAT-1470,2023-05-28 07:09:29,138.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1373,Platelets,Partly Cloudy,Delivered,23
+FLT-00470,ZIP-22,BAT-1105,2023-06-23 20:58:36,100.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1044,Whole Blood,Light Rain,Returned - Technical,53
+FLT-00471,ZIP-26,BAT-1911,2023-01-01 07:34:54,115.8,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1351,Packed Red Cells,Foggy,Returned - Weather,59
+FLT-00472,ZIP-17,BAT-1055,2023-06-27 10:09:57,142.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1130,Fresh Frozen Plasma,Overcast,Partial Delivery,53
+FLT-00473,ZIP-13,BAT-1463,2023-08-22 05:57:00,113.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,399,Packed Red Cells,Overcast,Returned - Technical,18
+FLT-00474,ZIP-21,BAT-1534,2023-05-19 04:08:06,89.3,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1637,Whole Blood,Overcast,Returned - Weather,20
+FLT-00475,ZIP-16,BAT-1200,2023-07-11 11:42:25,33.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,447,Platelets,Light Rain,Returned - Weather,31
+FLT-00476,ZIP-23,BAT-1775,2023-11-17 11:24:05,104.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,295,Whole Blood,Overcast,Delivered,67
+FLT-00477,ZIP-26,BAT-1004,2023-06-27 21:09:50,103.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1707,Whole Blood,Foggy,Delivered,53
+FLT-00478,ZIP-28,BAT-1181,2023-11-23 00:19:58,102.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,555,Packed Red Cells,Foggy,Partial Delivery,24
+FLT-00479,ZIP-22,BAT-1902,2023-09-13 14:32:50,102.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1057,Packed Red Cells,Overcast,Returned - Weather,35
+FLT-00480,ZIP-29,BAT-1422,2023-05-14 09:40:32,105.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1633,Fresh Frozen Plasma,Light Rain,Returned - Weather,71
+FLT-00481,ZIP-29,BAT-1214,2023-08-01 23:55:18,141.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1663,Fresh Frozen Plasma,Foggy,Returned - Weather,61
+FLT-00482,ZIP-30,BAT-1555,2023-12-25 00:07:46,88.0,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,860,Whole Blood,Partly Cloudy,Returned - Weather,66
+FLT-00483,ZIP-27,BAT-1690,2023-08-07 14:49:53,86.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,785,Platelets,Foggy,Returned - Technical,69
+FLT-00484,ZIP-16,BAT-1057,2023-07-23 06:11:47,22.5,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,746,Packed Red Cells,Light Rain,Returned - Weather,36
+FLT-00485,ZIP-19,BAT-1803,2023-04-08 13:23:52,136.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,617,Whole Blood,Clear,Returned - Technical,40
+FLT-00486,ZIP-27,BAT-1662,2023-02-10 01:10:58,102.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,996,Packed Red Cells,Foggy,Returned - Weather,50
+FLT-00487,ZIP-23,BAT-1396,2023-04-22 22:59:11,140.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1603,Fresh Frozen Plasma,Clear,Delivered,53
+FLT-00488,ZIP-24,BAT-1889,2023-01-06 06:50:41,27.5,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,661,Fresh Frozen Plasma,Partly Cloudy,Returned - Weather,66
+FLT-00489,ZIP-16,BAT-1742,2023-08-01 12:49:20,115.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,802,Platelets,Partly Cloudy,Partial Delivery,29
+FLT-00490,ZIP-13,BAT-1526,2023-01-30 04:06:04,136.4,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,972,Whole Blood,Partly Cloudy,Returned - Technical,45
+FLT-00491,ZIP-18,BAT-1866,2023-08-05 09:52:30,84.7,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,211,Fresh Frozen Plasma,Partly Cloudy,Returned - Weather,47
+FLT-00492,ZIP-11,BAT-1611,2023-12-31 08:04:53,136.2,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1784,Fresh Frozen Plasma,Partly Cloudy,Delivered,49
+FLT-00493,ZIP-15,BAT-1225,2023-08-02 21:51:52,112.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1266,Whole Blood,Overcast,Returned - Weather,68
+FLT-00494,ZIP-16,BAT-1226,2023-03-04 03:26:26,112.5,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1558,Fresh Frozen Plasma,Foggy,Returned - Weather,39
+FLT-00495,ZIP-30,BAT-1574,2023-04-25 06:18:40,84.4,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,218,Whole Blood,Foggy,Returned - Weather,60
+FLT-00496,ZIP-20,BAT-1040,2023-06-23 07:55:11,84.6,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,981,Whole Blood,Foggy,Returned - Weather,42
+FLT-00497,ZIP-21,BAT-1841,2023-07-30 01:22:36,88.4,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1253,Platelets,Clear,Returned - Weather,49
+FLT-00498,ZIP-12,BAT-1526,2023-04-26 08:57:53,28.8,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,396,Packed Red Cells,Partly Cloudy,Delivered,67
+FLT-00499,ZIP-30,BAT-1686,2023-07-27 07:50:18,109.2,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1784,Packed Red Cells,Clear,Delivered,61
+FLT-00500,ZIP-23,BAT-1999,2023-11-21 18:57:47,98.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1524,Whole Blood,Foggy,Partial Delivery,65
+FLT-00501,ZIP-12,BAT-1089,2023-03-01 23:05:47,135.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,311,Packed Red Cells,Overcast,Delivered,68
+FLT-00502,ZIP-22,BAT-1417,2023-08-05 23:43:18,83.2,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1123,Platelets,Partly Cloudy,Delivered,45
+FLT-00503,ZIP-30,BAT-1006,2023-01-07 19:26:06,85.7,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1675,Whole Blood,Clear,Returned - Weather,66
+FLT-00504,ZIP-26,BAT-1950,2023-08-16 16:15:44,135.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,417,Fresh Frozen Plasma,Clear,Delivered,68
+FLT-00505,ZIP-24,BAT-1948,2023-04-28 06:47:31,139.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,981,Platelets,Overcast,Partial Delivery,70
+FLT-00506,ZIP-27,BAT-1400,2023-01-13 05:15:19,138.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,804,Packed Red Cells,Foggy,Returned - Weather,37
+FLT-00507,ZIP-27,BAT-1566,2023-12-11 17:14:06,142.2,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,489,Whole Blood,Overcast,Delivered,20
+FLT-00508,ZIP-16,BAT-1312,2023-08-11 16:07:27,26.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1732,Fresh Frozen Plasma,Foggy,Returned - Weather,31
+FLT-00509,ZIP-29,BAT-1226,2023-12-18 23:03:54,102.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,717,Packed Red Cells,Foggy,Returned - Weather,25
+FLT-00510,ZIP-27,BAT-1769,2023-09-18 19:58:02,39.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1144,Whole Blood,Clear,Partial Delivery,36
+FLT-00511,ZIP-25,BAT-1594,2023-01-27 09:51:59,136.9,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,877,Fresh Frozen Plasma,Partly Cloudy,Returned - Technical,26
+FLT-00512,ZIP-16,BAT-1071,2023-09-12 19:27:03,136.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,850,Platelets,Overcast,Returned - Weather,46
+FLT-00513,ZIP-20,BAT-1373,2023-08-28 14:43:40,87.9,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1077,Packed Red Cells,Foggy,Delivered,18
+FLT-00514,ZIP-20,BAT-1137,2023-04-06 20:31:06,88.9,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1182,Platelets,Light Rain,Delivered,46
+FLT-00515,ZIP-12,BAT-1621,2023-10-29 03:21:05,85.1,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,774,Packed Red Cells,Foggy,Returned - Weather,52
+FLT-00516,ZIP-10,BAT-1077,2023-04-13 11:31:29,38.5,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1238,Whole Blood,Clear,Returned - Technical,70
+FLT-00517,ZIP-18,BAT-1564,2023-08-14 01:44:47,112.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1313,Platelets,Foggy,Delivered,59
+FLT-00518,ZIP-24,BAT-1137,2023-05-23 07:40:36,35.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1226,Whole Blood,Foggy,Returned - Technical,43
+FLT-00519,ZIP-29,BAT-1987,2023-07-15 06:32:17,82.7,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1601,Packed Red Cells,Partly Cloudy,Partial Delivery,66
+FLT-00520,ZIP-28,BAT-1971,2023-02-24 18:20:58,112.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1550,Packed Red Cells,Partly Cloudy,Returned - Weather,65
+FLT-00521,ZIP-25,BAT-1779,2023-07-08 00:34:42,142.4,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,674,Whole Blood,Clear,Delivered,34
+FLT-00522,ZIP-21,BAT-1929,2023-04-02 03:12:43,83.0,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,994,Platelets,Partly Cloudy,Returned - Weather,47
+FLT-00523,ZIP-26,BAT-1720,2023-01-16 17:56:19,29.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1497,Fresh Frozen Plasma,Overcast,Delivered,71
+FLT-00524,ZIP-21,BAT-1387,2023-04-13 12:17:01,139.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1403,Whole Blood,Foggy,Delivered,51
+FLT-00525,ZIP-21,BAT-1415,2023-05-27 09:38:18,90.4,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,906,Platelets,Partly Cloudy,Returned - Weather,68
+FLT-00526,ZIP-12,BAT-1235,2023-12-11 19:02:30,102.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1253,Fresh Frozen Plasma,Foggy,Delivered,31
+FLT-00527,ZIP-17,BAT-1676,2023-03-14 20:05:13,33.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1049,Fresh Frozen Plasma,Foggy,Returned - Technical,64
+FLT-00528,ZIP-23,BAT-1662,2023-07-07 06:03:37,27.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,245,Packed Red Cells,Light Rain,Delivered,20
+FLT-00529,ZIP-11,BAT-1524,2023-08-11 23:16:54,37.3,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1372,Packed Red Cells,Partly Cloudy,Returned - Technical,21
+FLT-00530,ZIP-30,BAT-1577,2023-04-11 13:09:15,40.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,238,Fresh Frozen Plasma,Foggy,Delivered,23
+FLT-00531,ZIP-23,BAT-1224,2023-06-24 16:52:43,37.4,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1430,Packed Red Cells,Light Rain,Partial Delivery,68
+FLT-00532,ZIP-20,BAT-1171,2023-11-15 21:10:40,115.3,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1128,Whole Blood,Foggy,Returned - Technical,32
+FLT-00533,ZIP-26,BAT-1535,2023-05-30 22:45:54,98.8,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1601,Platelets,Clear,Delivered,70
+FLT-00534,ZIP-27,BAT-1898,2023-08-24 09:46:18,33.4,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1230,Whole Blood,Light Rain,Returned - Weather,23
+FLT-00535,ZIP-30,BAT-1918,2023-09-14 07:59:04,98.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1083,Platelets,Foggy,Returned - Weather,41
+FLT-00536,ZIP-22,BAT-1493,2023-09-29 04:30:08,25.8,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,917,Whole Blood,Partly Cloudy,Partial Delivery,45
+FLT-00537,ZIP-19,BAT-1085,2023-04-10 02:16:47,36.4,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1425,Platelets,Partly Cloudy,Partial Delivery,34
+FLT-00538,ZIP-13,BAT-1535,2023-01-03 08:58:44,38.3,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1264,Whole Blood,Clear,Returned - Weather,42
+FLT-00539,ZIP-13,BAT-1370,2023-03-22 00:38:27,140.4,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,516,Platelets,Overcast,Delivered,59
+FLT-00540,ZIP-18,BAT-1626,2023-04-09 18:01:42,111.3,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1593,Platelets,Foggy,Delivered,66
+FLT-00541,ZIP-27,BAT-1572,2023-06-10 17:33:56,37.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1190,Fresh Frozen Plasma,Foggy,Returned - Weather,37
+FLT-00542,ZIP-13,BAT-1884,2023-05-14 23:38:00,115.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1731,Packed Red Cells,Light Rain,Returned - Weather,46
+FLT-00543,ZIP-27,BAT-1820,2023-03-05 02:02:23,135.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1457,Whole Blood,Foggy,Delivered,28
+FLT-00544,ZIP-25,BAT-1148,2023-09-05 04:47:58,97.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1429,Platelets,Clear,Partial Delivery,23
+FLT-00545,ZIP-22,BAT-1038,2023-04-13 10:11:42,23.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1020,Fresh Frozen Plasma,Clear,Returned - Weather,63
+FLT-00546,ZIP-24,BAT-1506,2023-01-23 13:35:39,116.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,221,Packed Red Cells,Partly Cloudy,Returned - Technical,72
+FLT-00547,ZIP-29,BAT-1034,2023-12-28 17:17:51,141.4,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1245,Packed Red Cells,Overcast,Delivered,57
+FLT-00548,ZIP-15,BAT-1000,2023-09-20 00:21:45,32.9,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,377,Fresh Frozen Plasma,Partly Cloudy,Returned - Technical,67
+FLT-00549,ZIP-12,BAT-1015,2023-05-18 09:23:18,103.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,384,Fresh Frozen Plasma,Light Rain,Returned - Weather,64
+FLT-00550,ZIP-17,BAT-1283,2023-12-22 14:30:06,113.8,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1441,Packed Red Cells,Overcast,Partial Delivery,47
+FLT-00551,ZIP-13,BAT-1518,2023-08-12 12:31:08,97.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1344,Whole Blood,Partly Cloudy,Delivered,50
+FLT-00552,ZIP-28,BAT-1832,2023-05-13 06:42:42,90.2,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,712,Platelets,Foggy,Delivered,42
+FLT-00553,ZIP-24,BAT-1469,2023-07-08 01:45:26,115.3,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1401,Whole Blood,Overcast,Partial Delivery,48
+FLT-00554,ZIP-17,BAT-1718,2023-04-11 09:03:15,22.1,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,846,Platelets,Partly Cloudy,Returned - Technical,40
+FLT-00555,ZIP-12,BAT-1294,2023-07-28 06:38:15,109.3,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1017,Fresh Frozen Plasma,Overcast,Delivered,22
+FLT-00556,ZIP-28,BAT-1223,2023-12-28 23:14:31,110.6,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,751,Packed Red Cells,Overcast,Delivered,65
+FLT-00557,ZIP-17,BAT-1753,2023-12-28 12:36:26,142.2,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,743,Packed Red Cells,Light Rain,Returned - Weather,32
+FLT-00558,ZIP-13,BAT-1109,2023-11-21 12:12:33,34.6,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,360,Platelets,Foggy,Returned - Weather,57
+FLT-00559,ZIP-21,BAT-1493,2023-10-25 01:16:20,28.5,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1471,Fresh Frozen Plasma,Clear,Partial Delivery,49
+FLT-00560,ZIP-26,BAT-1937,2023-12-04 15:30:44,111.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,773,Platelets,Partly Cloudy,Partial Delivery,32
+FLT-00561,ZIP-26,BAT-1033,2023-02-20 01:20:20,109.6,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,911,Platelets,Light Rain,Delivered,61
+FLT-00562,ZIP-10,BAT-1008,2023-06-27 19:22:33,40.4,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1580,Packed Red Cells,Foggy,Delivered,42
+FLT-00563,ZIP-18,BAT-1561,2023-02-09 09:02:16,111.8,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,685,Fresh Frozen Plasma,Foggy,Returned - Weather,48
+FLT-00564,ZIP-21,BAT-1717,2023-05-14 11:53:26,112.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,947,Platelets,Light Rain,Returned - Weather,35
+FLT-00565,ZIP-18,BAT-1102,2023-03-12 02:41:20,102.3,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,682,Platelets,Foggy,Returned - Weather,72
+FLT-00566,ZIP-10,BAT-1825,2023-03-18 09:26:29,98.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,561,Platelets,Partly Cloudy,Delivered,49
+FLT-00567,ZIP-25,BAT-1804,2023-12-14 03:53:01,39.4,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,814,Fresh Frozen Plasma,Foggy,Returned - Weather,53
+FLT-00568,ZIP-18,BAT-1220,2023-01-19 18:40:58,112.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1175,Whole Blood,Partly Cloudy,Delivered,46
+FLT-00569,ZIP-18,BAT-1570,2023-05-11 05:13:30,137.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,904,Whole Blood,Overcast,Returned - Weather,44
+FLT-00570,ZIP-30,BAT-1665,2023-05-17 14:24:01,28.5,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1302,Packed Red Cells,Foggy,Delivered,67
+FLT-00571,ZIP-12,BAT-1457,2023-05-19 03:51:22,85.2,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,980,Fresh Frozen Plasma,Foggy,Delivered,47
+FLT-00572,ZIP-29,BAT-1646,2023-02-26 12:05:03,141.9,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1370,Platelets,Overcast,Delivered,72
+FLT-00573,ZIP-30,BAT-1324,2023-01-31 23:22:35,22.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,796,Fresh Frozen Plasma,Partly Cloudy,Delivered,56
+FLT-00574,ZIP-28,BAT-1371,2023-06-03 19:54:38,137.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1266,Platelets,Light Rain,Partial Delivery,44
+FLT-00575,ZIP-18,BAT-1240,2023-03-13 15:56:36,39.4,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1723,Whole Blood,Partly Cloudy,Returned - Technical,31
+FLT-00576,ZIP-11,BAT-1561,2023-06-04 10:43:59,33.4,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,253,Platelets,Clear,Delivered,51
+FLT-00577,ZIP-22,BAT-1670,2023-02-10 14:40:58,23.7,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,833,Packed Red Cells,Partly Cloudy,Delivered,33
+FLT-00578,ZIP-15,BAT-1539,2023-04-21 14:42:20,138.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,258,Whole Blood,Partly Cloudy,Delivered,60
+FLT-00579,ZIP-18,BAT-1553,2023-12-01 09:13:06,90.0,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1323,Platelets,Light Rain,Delivered,26
+FLT-00580,ZIP-28,BAT-1651,2023-07-29 16:31:28,136.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1090,Fresh Frozen Plasma,Foggy,Delivered,40
+FLT-00581,ZIP-21,BAT-1315,2023-07-29 20:04:17,99.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1044,Fresh Frozen Plasma,Clear,Delivered,27
+FLT-00582,ZIP-25,BAT-1293,2023-01-05 08:23:14,82.6,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1295,Whole Blood,Partly Cloudy,Delivered,62
+FLT-00583,ZIP-19,BAT-1440,2023-10-21 15:30:57,101.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1422,Packed Red Cells,Clear,Partial Delivery,68
+FLT-00584,ZIP-15,BAT-1255,2023-08-02 03:42:28,24.6,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1664,Platelets,Light Rain,Returned - Weather,71
+FLT-00585,ZIP-29,BAT-1782,2023-03-27 22:04:13,99.8,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1621,Fresh Frozen Plasma,Light Rain,Returned - Weather,36
+FLT-00586,ZIP-12,BAT-1192,2023-10-16 18:34:49,139.2,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,573,Packed Red Cells,Overcast,Delivered,36
+FLT-00587,ZIP-16,BAT-1503,2023-09-05 14:16:13,25.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,856,Whole Blood,Light Rain,Delivered,27
+FLT-00588,ZIP-14,BAT-1275,2023-07-28 00:17:19,21.8,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1664,Platelets,Clear,Delivered,64
+FLT-00589,ZIP-20,BAT-1222,2023-04-01 15:57:04,22.3,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1060,Fresh Frozen Plasma,Clear,Delivered,68
+FLT-00590,ZIP-14,BAT-1082,2023-05-25 11:40:18,101.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,314,Fresh Frozen Plasma,Clear,Delivered,67
+FLT-00591,ZIP-18,BAT-1917,2023-01-28 23:21:12,102.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,981,Whole Blood,Partly Cloudy,Delivered,25
+FLT-00592,ZIP-16,BAT-1034,2023-04-07 22:29:50,138.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1143,Whole Blood,Light Rain,Delivered,51
+FLT-00593,ZIP-30,BAT-1162,2023-03-23 04:52:05,138.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1691,Whole Blood,Overcast,Delivered,65
+FLT-00594,ZIP-11,BAT-1369,2023-07-22 13:23:04,110.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1565,Packed Red Cells,Light Rain,Returned - Weather,25
+FLT-00595,ZIP-18,BAT-1813,2023-09-04 01:08:20,36.1,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1397,Whole Blood,Clear,Delivered,43
+FLT-00596,ZIP-29,BAT-1704,2023-01-04 17:13:56,40.3,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,517,Fresh Frozen Plasma,Foggy,Partial Delivery,67
+FLT-00597,ZIP-20,BAT-1633,2023-04-07 20:15:34,22.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1755,Whole Blood,Clear,Returned - Technical,21
+FLT-00598,ZIP-17,BAT-1499,2023-09-08 13:52:24,83.9,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,848,Fresh Frozen Plasma,Foggy,Returned - Weather,69
+FLT-00599,ZIP-11,BAT-1256,2023-10-12 23:48:54,99.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1193,Platelets,Light Rain,Delivered,53
+FLT-00600,ZIP-27,BAT-1191,2023-07-31 00:38:53,88.2,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,912,Fresh Frozen Plasma,Partly Cloudy,Returned - Weather,64
+FLT-00601,ZIP-26,BAT-1070,2023-04-18 04:12:35,104.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,517,Platelets,Foggy,Partial Delivery,36
+FLT-00602,ZIP-26,BAT-1653,2023-07-30 14:08:00,85.6,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,976,Packed Red Cells,Clear,Partial Delivery,19
+FLT-00603,ZIP-27,BAT-1064,2023-11-30 00:13:40,112.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,993,Packed Red Cells,Foggy,Delivered,51
+FLT-00604,ZIP-20,BAT-1289,2023-07-13 11:29:39,141.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1039,Fresh Frozen Plasma,Partly Cloudy,Returned - Weather,25
+FLT-00605,ZIP-14,BAT-1960,2023-07-23 10:34:56,26.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,565,Whole Blood,Clear,Partial Delivery,30
+FLT-00606,ZIP-22,BAT-1657,2023-07-08 17:58:44,23.1,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1547,Platelets,Clear,Returned - Weather,51
+FLT-00607,ZIP-29,BAT-1226,2023-09-30 14:43:13,113.9,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1670,Whole Blood,Clear,Delivered,18
+FLT-00608,ZIP-30,BAT-1820,2023-09-12 22:01:37,36.5,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,324,Fresh Frozen Plasma,Clear,Delivered,53
+FLT-00609,ZIP-11,BAT-1725,2023-12-31 15:03:59,142.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1463,Fresh Frozen Plasma,Overcast,Partial Delivery,51
+FLT-00610,ZIP-16,BAT-1967,2023-10-13 10:10:30,22.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1263,Whole Blood,Overcast,Delivered,24
+FLT-00611,ZIP-17,BAT-1538,2023-03-31 23:14:37,139.2,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1367,Packed Red Cells,Partly Cloudy,Delivered,53
+FLT-00612,ZIP-28,BAT-1653,2023-08-06 00:15:24,138.2,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,933,Platelets,Clear,Partial Delivery,62
+FLT-00613,ZIP-27,BAT-1184,2023-06-16 02:37:38,142.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1022,Fresh Frozen Plasma,Partly Cloudy,Partial Delivery,60
+FLT-00614,ZIP-20,BAT-1563,2023-07-27 14:18:47,40.6,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,961,Platelets,Light Rain,Delivered,66
+FLT-00615,ZIP-28,BAT-1246,2023-06-17 11:22:18,141.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1317,Packed Red Cells,Overcast,Returned - Weather,42
+FLT-00616,ZIP-22,BAT-1458,2023-12-26 22:18:53,115.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,200,Whole Blood,Overcast,Delivered,36
+FLT-00617,ZIP-17,BAT-1307,2023-01-07 13:56:59,113.3,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,639,Fresh Frozen Plasma,Overcast,Delivered,19
+FLT-00618,ZIP-28,BAT-1948,2023-11-16 14:44:26,137.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,516,Whole Blood,Foggy,Returned - Weather,20
+FLT-00619,ZIP-28,BAT-1910,2023-05-19 08:57:06,99.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,711,Packed Red Cells,Overcast,Delivered,34
+FLT-00620,ZIP-20,BAT-1740,2023-02-05 22:37:04,87.2,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1188,Packed Red Cells,Foggy,Delivered,49
+FLT-00621,ZIP-19,BAT-1657,2023-10-01 05:01:01,139.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,276,Platelets,Clear,Returned - Weather,23
+FLT-00622,ZIP-23,BAT-1444,2023-12-25 06:27:54,27.8,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,446,Packed Red Cells,Overcast,Partial Delivery,65
+FLT-00623,ZIP-30,BAT-1796,2023-11-27 03:42:37,139.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,983,Whole Blood,Clear,Returned - Technical,37
+FLT-00624,ZIP-17,BAT-1714,2023-01-17 05:50:47,111.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,513,Whole Blood,Foggy,Delivered,61
+FLT-00625,ZIP-23,BAT-1227,2023-06-02 19:55:55,142.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,793,Platelets,Foggy,Returned - Weather,27
+FLT-00626,ZIP-18,BAT-1408,2023-05-11 19:18:52,33.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,374,Platelets,Foggy,Returned - Weather,50
+FLT-00627,ZIP-16,BAT-1572,2023-10-28 18:34:22,103.3,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1199,Platelets,Partly Cloudy,Delivered,59
+FLT-00628,ZIP-23,BAT-1272,2023-03-18 09:46:40,113.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,862,Whole Blood,Foggy,Returned - Weather,25
+FLT-00629,ZIP-21,BAT-1328,2023-06-10 20:51:50,138.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1416,Whole Blood,Overcast,Delivered,67
+FLT-00630,ZIP-29,BAT-1452,2023-03-07 23:34:24,90.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,498,Platelets,Foggy,Partial Delivery,20
+FLT-00631,ZIP-12,BAT-1745,2023-03-19 19:12:03,38.1,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,430,Whole Blood,Partly Cloudy,Partial Delivery,33
+FLT-00632,ZIP-13,BAT-1351,2023-12-27 03:44:48,110.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,824,Platelets,Overcast,Delivered,48
+FLT-00633,ZIP-18,BAT-1535,2023-05-10 03:18:54,23.3,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1323,Platelets,Foggy,Returned - Weather,57
+FLT-00634,ZIP-26,BAT-1596,2023-02-25 03:27:12,140.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,289,Fresh Frozen Plasma,Clear,Delivered,28
+FLT-00635,ZIP-10,BAT-1670,2023-04-21 13:11:53,23.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,336,Platelets,Foggy,Returned - Weather,60
+FLT-00636,ZIP-10,BAT-1110,2023-09-15 17:26:12,89.4,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,799,Platelets,Overcast,Partial Delivery,32
+FLT-00637,ZIP-29,BAT-1496,2023-07-17 17:56:21,105.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1288,Whole Blood,Clear,Delivered,29
+FLT-00638,ZIP-26,BAT-1253,2023-07-14 16:24:13,40.3,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,824,Fresh Frozen Plasma,Foggy,Returned - Weather,49
+FLT-00639,ZIP-21,BAT-1360,2023-10-17 08:13:27,99.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1480,Fresh Frozen Plasma,Overcast,Returned - Technical,33
+FLT-00640,ZIP-10,BAT-1911,2023-04-18 09:22:18,115.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1336,Fresh Frozen Plasma,Overcast,Delivered,32
+FLT-00641,ZIP-22,BAT-1747,2023-05-13 23:40:40,39.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1266,Packed Red Cells,Partly Cloudy,Delivered,44
+FLT-00642,ZIP-24,BAT-1337,2023-08-11 17:48:05,33.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1310,Packed Red Cells,Overcast,Returned - Weather,31
+FLT-00643,ZIP-19,BAT-1141,2023-02-24 01:37:36,139.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1610,Packed Red Cells,Partly Cloudy,Partial Delivery,45
+FLT-00644,ZIP-27,BAT-1069,2023-09-13 02:31:23,40.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1291,Whole Blood,Partly Cloudy,Delivered,29
+FLT-00645,ZIP-23,BAT-1326,2023-11-23 06:55:00,89.7,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1042,Fresh Frozen Plasma,Clear,Partial Delivery,46
+FLT-00646,ZIP-16,BAT-1797,2023-12-29 21:21:12,141.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,418,Packed Red Cells,Overcast,Delivered,29
+FLT-00647,ZIP-17,BAT-1627,2023-10-24 08:31:32,29.5,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1421,Packed Red Cells,Foggy,Delivered,32
+FLT-00648,ZIP-25,BAT-1619,2023-01-11 09:07:30,137.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1658,Fresh Frozen Plasma,Light Rain,Delivered,29
+FLT-00649,ZIP-11,BAT-1231,2023-07-11 02:36:17,101.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1036,Whole Blood,Partly Cloudy,Delivered,35
+FLT-00650,ZIP-12,BAT-1209,2023-03-28 16:21:20,103.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,562,Platelets,Partly Cloudy,Partial Delivery,57
+FLT-00651,ZIP-11,BAT-1794,2023-09-25 09:20:42,100.3,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1445,Platelets,Light Rain,Delivered,64
+FLT-00652,ZIP-11,BAT-1656,2023-06-03 07:45:03,87.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1266,Whole Blood,Foggy,Returned - Weather,46
+FLT-00653,ZIP-22,BAT-1550,2023-11-18 10:17:34,104.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1705,Whole Blood,Partly Cloudy,Returned - Weather,53
+FLT-00654,ZIP-24,BAT-1298,2023-07-20 16:38:57,103.8,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1015,Fresh Frozen Plasma,Clear,Delivered,67
+FLT-00655,ZIP-11,BAT-1941,2023-06-29 10:04:02,84.0,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1613,Packed Red Cells,Overcast,Returned - Weather,47
+FLT-00656,ZIP-27,BAT-1599,2023-06-25 16:07:52,135.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,477,Platelets,Foggy,Returned - Weather,44
+FLT-00657,ZIP-16,BAT-1917,2023-06-25 08:33:38,82.8,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1131,Whole Blood,Light Rain,Returned - Weather,34
+FLT-00658,ZIP-13,BAT-1750,2023-09-26 21:16:25,87.8,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,386,Whole Blood,Partly Cloudy,Returned - Technical,63
+FLT-00659,ZIP-26,BAT-1810,2023-09-04 11:58:59,100.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1453,Packed Red Cells,Foggy,Returned - Technical,42
+FLT-00660,ZIP-14,BAT-1579,2023-05-29 01:30:52,109.5,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,532,Packed Red Cells,Partly Cloudy,Delivered,29
+FLT-00661,ZIP-24,BAT-1787,2023-01-21 04:14:54,138.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,791,Packed Red Cells,Overcast,Returned - Technical,25
+FLT-00662,ZIP-25,BAT-1469,2023-03-21 00:42:53,32.6,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1221,Whole Blood,Overcast,Delivered,56
+FLT-00663,ZIP-29,BAT-1081,2023-04-03 15:11:13,99.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1429,Whole Blood,Light Rain,Delivered,33
+FLT-00664,ZIP-15,BAT-1050,2023-04-19 06:12:01,114.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,503,Whole Blood,Foggy,Partial Delivery,59
+FLT-00665,ZIP-29,BAT-1591,2023-01-15 12:15:54,83.8,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,811,Fresh Frozen Plasma,Clear,Returned - Technical,23
+FLT-00666,ZIP-19,BAT-1688,2023-02-12 12:54:23,24.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1451,Packed Red Cells,Partly Cloudy,Delivered,47
+FLT-00667,ZIP-19,BAT-1786,2023-08-14 02:21:25,137.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,861,Fresh Frozen Plasma,Clear,Delivered,42
+FLT-00668,ZIP-13,BAT-1137,2023-10-22 19:11:30,25.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1622,Fresh Frozen Plasma,Foggy,Returned - Weather,39
+FLT-00669,ZIP-13,BAT-1059,2023-06-10 22:30:11,113.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1370,Whole Blood,Partly Cloudy,Returned - Weather,48
+FLT-00670,ZIP-20,BAT-1623,2023-09-25 16:43:23,139.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,731,Fresh Frozen Plasma,Overcast,Delivered,26
+FLT-00671,ZIP-29,BAT-1904,2023-08-07 18:07:55,113.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,676,Fresh Frozen Plasma,Light Rain,Delivered,30
+FLT-00672,ZIP-16,BAT-1868,2023-02-16 03:46:13,21.8,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1460,Platelets,Clear,Returned - Technical,44
+FLT-00673,ZIP-16,BAT-1655,2023-05-10 21:10:09,24.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1613,Fresh Frozen Plasma,Partly Cloudy,Delivered,34
+FLT-00674,ZIP-20,BAT-1116,2023-04-30 18:38:53,24.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,899,Platelets,Foggy,Delivered,64
+FLT-00675,ZIP-20,BAT-1338,2023-08-28 11:28:26,116.9,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1577,Platelets,Partly Cloudy,Delivered,48
+FLT-00676,ZIP-27,BAT-1471,2023-09-08 23:54:53,22.7,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,886,Platelets,Partly Cloudy,Returned - Technical,68
+FLT-00677,ZIP-20,BAT-1694,2023-12-27 13:37:45,103.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1337,Whole Blood,Foggy,Delivered,31
+FLT-00678,ZIP-14,BAT-1992,2023-09-24 11:15:38,111.8,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,774,Whole Blood,Overcast,Delivered,39
+FLT-00679,ZIP-22,BAT-1620,2023-09-01 13:30:15,102.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,583,Whole Blood,Partly Cloudy,Returned - Weather,68
+FLT-00680,ZIP-12,BAT-1423,2023-10-02 03:33:26,89.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1217,Packed Red Cells,Clear,Delivered,41
+FLT-00681,ZIP-15,BAT-1309,2023-11-19 09:06:14,105.3,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,429,Fresh Frozen Plasma,Partly Cloudy,Returned - Weather,68
+FLT-00682,ZIP-10,BAT-1518,2023-10-30 07:31:54,23.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1188,Packed Red Cells,Clear,Delivered,30
+FLT-00683,ZIP-13,BAT-1146,2023-12-25 22:55:07,86.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1257,Packed Red Cells,Foggy,Delivered,31
+FLT-00684,ZIP-11,BAT-1954,2023-01-15 10:41:39,138.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1607,Whole Blood,Foggy,Returned - Weather,39
+FLT-00685,ZIP-10,BAT-1319,2023-12-12 13:48:47,98.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1382,Fresh Frozen Plasma,Foggy,Partial Delivery,58
+FLT-00686,ZIP-20,BAT-1545,2023-05-05 20:49:18,34.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1782,Platelets,Overcast,Delivered,60
+FLT-00687,ZIP-29,BAT-1015,2023-04-17 03:19:17,22.8,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1346,Whole Blood,Overcast,Delivered,31
+FLT-00688,ZIP-19,BAT-1965,2023-05-17 07:12:06,113.6,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1375,Packed Red Cells,Overcast,Delivered,28
+FLT-00689,ZIP-11,BAT-1454,2023-05-02 04:14:57,26.5,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,466,Whole Blood,Overcast,Returned - Weather,48
+FLT-00690,ZIP-22,BAT-1436,2023-01-20 20:17:02,135.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,566,Platelets,Clear,Delivered,57
+FLT-00691,ZIP-27,BAT-1776,2023-05-02 14:09:28,85.3,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,360,Platelets,Partly Cloudy,Returned - Technical,54
+FLT-00692,ZIP-30,BAT-1700,2023-02-06 08:02:29,39.1,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1654,Platelets,Light Rain,Delivered,48
+FLT-00693,ZIP-15,BAT-1401,2023-03-29 03:54:55,33.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1632,Fresh Frozen Plasma,Foggy,Delivered,68
+FLT-00694,ZIP-21,BAT-1115,2023-06-26 06:54:15,86.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1180,Platelets,Clear,Delivered,72
+FLT-00695,ZIP-22,BAT-1105,2023-04-20 20:49:45,38.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1662,Whole Blood,Foggy,Returned - Weather,38
+FLT-00696,ZIP-22,BAT-1472,2023-09-10 11:19:33,109.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1409,Platelets,Overcast,Returned - Weather,33
+FLT-00697,ZIP-28,BAT-1213,2023-04-05 21:21:55,113.6,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1082,Platelets,Light Rain,Returned - Weather,54
+FLT-00698,ZIP-12,BAT-1685,2023-07-31 17:21:30,88.2,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1714,Platelets,Partly Cloudy,Returned - Technical,25
+FLT-00699,ZIP-19,BAT-1180,2023-08-20 17:49:34,112.9,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1031,Whole Blood,Foggy,Delivered,56
+FLT-00700,ZIP-11,BAT-1676,2023-09-24 11:24:14,28.1,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,385,Packed Red Cells,Light Rain,Delivered,70
+FLT-00701,ZIP-14,BAT-1150,2023-12-11 19:52:36,37.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1127,Fresh Frozen Plasma,Clear,Partial Delivery,42
+FLT-00702,ZIP-20,BAT-1898,2023-08-13 16:42:40,112.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,813,Fresh Frozen Plasma,Partly Cloudy,Returned - Technical,45
+FLT-00703,ZIP-29,BAT-1008,2023-12-22 15:31:01,137.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1245,Platelets,Clear,Returned - Weather,72
+FLT-00704,ZIP-11,BAT-1991,2023-11-28 07:55:27,34.9,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,201,Fresh Frozen Plasma,Overcast,Returned - Weather,25
+FLT-00705,ZIP-20,BAT-1640,2023-12-03 10:43:08,82.9,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1657,Platelets,Light Rain,Returned - Technical,43
+FLT-00706,ZIP-16,BAT-1142,2023-06-19 06:15:54,102.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1337,Platelets,Partly Cloudy,Delivered,71
+FLT-00707,ZIP-14,BAT-1686,2023-11-23 11:01:10,86.0,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,475,Whole Blood,Overcast,Partial Delivery,22
+FLT-00708,ZIP-12,BAT-1139,2023-01-07 08:24:26,136.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,481,Platelets,Light Rain,Returned - Technical,47
+FLT-00709,ZIP-27,BAT-1434,2023-08-23 23:41:28,142.4,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1121,Platelets,Foggy,Delivered,40
+FLT-00710,ZIP-17,BAT-1510,2023-03-14 09:41:52,36.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1658,Fresh Frozen Plasma,Clear,Returned - Weather,44
+FLT-00711,ZIP-21,BAT-1494,2023-08-13 01:59:35,112.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,431,Platelets,Clear,Returned - Weather,62
+FLT-00712,ZIP-18,BAT-1797,2023-02-25 10:21:04,27.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1152,Whole Blood,Foggy,Partial Delivery,51
+FLT-00713,ZIP-27,BAT-1648,2023-02-04 14:22:47,111.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1387,Fresh Frozen Plasma,Clear,Returned - Technical,57
+FLT-00714,ZIP-26,BAT-1464,2023-12-18 04:01:30,24.3,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1160,Fresh Frozen Plasma,Clear,Delivered,44
+FLT-00715,ZIP-29,BAT-1711,2023-11-07 05:58:46,85.0,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1734,Fresh Frozen Plasma,Partly Cloudy,Delivered,64
+FLT-00716,ZIP-19,BAT-1052,2023-04-12 09:30:21,109.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1710,Whole Blood,Light Rain,Returned - Weather,36
+FLT-00717,ZIP-18,BAT-1802,2023-02-02 07:03:01,98.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,716,Packed Red Cells,Clear,Partial Delivery,57
+FLT-00718,ZIP-29,BAT-1114,2023-04-18 03:12:33,89.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,557,Packed Red Cells,Clear,Returned - Technical,60
+FLT-00719,ZIP-17,BAT-1717,2023-05-24 20:28:35,104.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1193,Packed Red Cells,Overcast,Partial Delivery,69
+FLT-00720,ZIP-14,BAT-1609,2023-12-02 00:33:24,109.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1215,Platelets,Clear,Delivered,67
+FLT-00721,ZIP-21,BAT-1591,2023-04-03 15:49:51,103.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,311,Fresh Frozen Plasma,Partly Cloudy,Delivered,66
+FLT-00722,ZIP-27,BAT-1764,2023-01-21 15:33:06,22.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,678,Platelets,Light Rain,Delivered,61
+FLT-00723,ZIP-23,BAT-1891,2023-06-01 17:43:13,138.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,224,Fresh Frozen Plasma,Partly Cloudy,Returned - Weather,69
+FLT-00724,ZIP-27,BAT-1099,2023-05-29 14:32:10,103.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1505,Fresh Frozen Plasma,Foggy,Returned - Technical,72
+FLT-00725,ZIP-18,BAT-1276,2023-08-26 08:08:16,105.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,401,Fresh Frozen Plasma,Overcast,Delivered,59
+FLT-00726,ZIP-28,BAT-1688,2023-06-02 03:49:02,112.9,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1777,Packed Red Cells,Partly Cloudy,Returned - Technical,51
+FLT-00727,ZIP-10,BAT-1560,2023-09-21 10:47:27,88.2,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1577,Whole Blood,Partly Cloudy,Delivered,71
+FLT-00728,ZIP-17,BAT-1359,2023-01-05 21:29:18,24.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1685,Fresh Frozen Plasma,Foggy,Delivered,34
+FLT-00729,ZIP-29,BAT-1961,2023-01-14 11:17:32,32.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1544,Packed Red Cells,Clear,Delivered,56
+FLT-00730,ZIP-29,BAT-1876,2023-02-17 13:09:58,140.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,466,Platelets,Clear,Delivered,60
+FLT-00731,ZIP-15,BAT-1712,2023-08-09 02:08:37,141.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,718,Fresh Frozen Plasma,Partly Cloudy,Delivered,47
+FLT-00732,ZIP-20,BAT-1708,2023-12-30 19:50:57,135.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,727,Packed Red Cells,Light Rain,Delivered,67
+FLT-00733,ZIP-18,BAT-1061,2023-04-18 22:30:23,27.8,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,742,Packed Red Cells,Light Rain,Delivered,46
+FLT-00734,ZIP-15,BAT-1402,2023-07-11 05:10:45,29.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1521,Platelets,Partly Cloudy,Returned - Weather,24
+FLT-00735,ZIP-13,BAT-1658,2023-07-30 05:03:24,38.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1104,Fresh Frozen Plasma,Partly Cloudy,Returned - Weather,24
+FLT-00736,ZIP-10,BAT-1456,2023-01-29 13:39:32,22.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1219,Packed Red Cells,Overcast,Partial Delivery,59
+FLT-00737,ZIP-22,BAT-1337,2023-01-01 14:05:13,142.4,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1376,Whole Blood,Light Rain,Returned - Weather,50
+FLT-00738,ZIP-12,BAT-1799,2023-10-27 16:09:12,138.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1306,Packed Red Cells,Light Rain,Delivered,18
+FLT-00739,ZIP-21,BAT-1957,2023-09-25 22:22:51,104.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,882,Fresh Frozen Plasma,Light Rain,Delivered,43
+FLT-00740,ZIP-20,BAT-1547,2023-09-03 19:12:25,29.6,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,364,Platelets,Clear,Delivered,66
+FLT-00741,ZIP-16,BAT-1676,2023-09-09 19:51:51,84.3,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,812,Platelets,Foggy,Delivered,24
+FLT-00742,ZIP-16,BAT-1448,2023-09-25 18:28:41,137.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,486,Whole Blood,Clear,Returned - Technical,30
+FLT-00743,ZIP-12,BAT-1398,2023-10-07 18:27:14,29.6,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1307,Fresh Frozen Plasma,Partly Cloudy,Delivered,49
+FLT-00744,ZIP-11,BAT-1347,2023-11-21 05:46:34,115.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,891,Whole Blood,Clear,Delivered,43
+FLT-00745,ZIP-27,BAT-1891,2023-03-24 10:59:00,28.1,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,505,Packed Red Cells,Foggy,Delivered,22
+FLT-00746,ZIP-29,BAT-1928,2023-10-13 20:58:53,22.7,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,293,Packed Red Cells,Clear,Delivered,62
+FLT-00747,ZIP-13,BAT-1840,2023-02-20 22:41:59,135.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1134,Packed Red Cells,Clear,Delivered,71
+FLT-00748,ZIP-29,BAT-1509,2023-01-26 02:07:41,115.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1460,Packed Red Cells,Clear,Delivered,22
+FLT-00749,ZIP-28,BAT-1700,2023-06-15 18:34:43,35.3,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1317,Packed Red Cells,Light Rain,Returned - Weather,38
+FLT-00750,ZIP-13,BAT-1064,2023-10-25 01:07:12,32.9,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,760,Packed Red Cells,Partly Cloudy,Delivered,66
+FLT-00751,ZIP-28,BAT-1947,2023-03-07 12:20:50,103.3,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,283,Packed Red Cells,Foggy,Delivered,24
+FLT-00752,ZIP-25,BAT-1900,2023-08-27 02:22:06,137.9,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,365,Whole Blood,Partly Cloudy,Delivered,18
+FLT-00753,ZIP-25,BAT-1826,2023-12-26 22:13:19,33.3,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1617,Packed Red Cells,Foggy,Delivered,31
+FLT-00754,ZIP-29,BAT-1178,2023-09-06 17:36:28,34.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1616,Whole Blood,Light Rain,Returned - Weather,56
+FLT-00755,ZIP-19,BAT-1846,2023-10-06 18:46:36,36.6,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,912,Platelets,Clear,Returned - Technical,18
+FLT-00756,ZIP-27,BAT-1883,2023-04-02 18:18:53,110.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1239,Packed Red Cells,Foggy,Delivered,47
+FLT-00757,ZIP-14,BAT-1115,2023-09-14 07:22:28,136.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1603,Platelets,Clear,Delivered,49
+FLT-00758,ZIP-21,BAT-1660,2023-03-04 07:04:02,37.9,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,783,Packed Red Cells,Clear,Delivered,45
+FLT-00759,ZIP-27,BAT-1053,2023-05-11 01:51:06,87.6,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,560,Packed Red Cells,Light Rain,Returned - Weather,68
+FLT-00760,ZIP-24,BAT-1738,2023-07-08 15:05:59,25.7,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1413,Fresh Frozen Plasma,Clear,Delivered,44
+FLT-00761,ZIP-13,BAT-1797,2023-10-18 09:21:11,38.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,867,Packed Red Cells,Overcast,Delivered,24
+FLT-00762,ZIP-17,BAT-1912,2023-10-14 18:18:30,35.9,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,350,Platelets,Partly Cloudy,Delivered,55
+FLT-00763,ZIP-29,BAT-1950,2023-01-22 08:28:46,104.8,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1131,Packed Red Cells,Partly Cloudy,Delivered,42
+FLT-00764,ZIP-18,BAT-1367,2023-02-23 05:22:59,86.3,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,614,Fresh Frozen Plasma,Partly Cloudy,Returned - Technical,26
+FLT-00765,ZIP-24,BAT-1113,2023-09-27 01:52:11,26.1,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1139,Platelets,Overcast,Delivered,28
+FLT-00766,ZIP-29,BAT-1653,2023-03-27 15:11:01,89.7,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,548,Packed Red Cells,Foggy,Delivered,23
+FLT-00767,ZIP-24,BAT-1484,2023-11-30 01:34:27,101.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,771,Whole Blood,Partly Cloudy,Returned - Weather,64
+FLT-00768,ZIP-28,BAT-1444,2023-10-14 03:41:03,104.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,655,Packed Red Cells,Partly Cloudy,Delivered,54
+FLT-00769,ZIP-26,BAT-1751,2023-06-12 11:54:57,29.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,268,Platelets,Clear,Delivered,51
+FLT-00770,ZIP-17,BAT-1507,2023-07-06 09:06:50,104.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,370,Whole Blood,Clear,Delivered,62
+FLT-00771,ZIP-17,BAT-1302,2023-06-08 03:57:18,142.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1526,Whole Blood,Partly Cloudy,Delivered,19
+FLT-00772,ZIP-10,BAT-1597,2023-09-18 01:51:49,100.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1131,Platelets,Light Rain,Partial Delivery,67
+FLT-00773,ZIP-21,BAT-1892,2023-12-06 18:07:32,38.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1483,Platelets,Partly Cloudy,Partial Delivery,63
+FLT-00774,ZIP-20,BAT-1914,2023-01-01 18:42:36,141.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1287,Whole Blood,Clear,Delivered,36
+FLT-00775,ZIP-12,BAT-1212,2023-10-20 15:25:29,99.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1470,Fresh Frozen Plasma,Foggy,Returned - Weather,65
+FLT-00776,ZIP-22,BAT-1113,2023-07-20 03:41:30,29.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,948,Platelets,Overcast,Delivered,57
+FLT-00777,ZIP-16,BAT-1726,2023-05-23 05:22:12,24.5,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,483,Fresh Frozen Plasma,Foggy,Returned - Weather,33
+FLT-00778,ZIP-17,BAT-1214,2023-02-14 08:26:03,114.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,856,Fresh Frozen Plasma,Foggy,Partial Delivery,35
+FLT-00779,ZIP-21,BAT-1381,2023-09-22 10:10:21,112.6,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1126,Platelets,Clear,Delivered,50
+FLT-00780,ZIP-19,BAT-1921,2023-11-19 10:03:28,110.2,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1125,Fresh Frozen Plasma,Foggy,Returned - Technical,69
+FLT-00781,ZIP-24,BAT-1913,2023-09-27 11:18:26,141.4,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,378,Whole Blood,Clear,Delivered,43
+FLT-00782,ZIP-18,BAT-1168,2023-04-23 05:49:41,40.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,429,Packed Red Cells,Clear,Delivered,49
+FLT-00783,ZIP-27,BAT-1426,2023-12-07 01:31:37,34.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,470,Platelets,Clear,Delivered,40
+FLT-00784,ZIP-12,BAT-1193,2023-06-22 15:04:31,103.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,245,Packed Red Cells,Clear,Delivered,71
+FLT-00785,ZIP-20,BAT-1805,2023-09-08 14:46:43,111.9,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1195,Platelets,Foggy,Delivered,47
+FLT-00786,ZIP-18,BAT-1808,2023-08-09 13:10:07,83.7,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,664,Platelets,Overcast,Delivered,41
+FLT-00787,ZIP-24,BAT-1291,2023-10-27 04:35:15,89.4,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,540,Packed Red Cells,Partly Cloudy,Delivered,63
+FLT-00788,ZIP-14,BAT-1725,2023-04-22 00:41:27,110.6,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,530,Packed Red Cells,Partly Cloudy,Partial Delivery,25
+FLT-00789,ZIP-27,BAT-1210,2023-05-04 05:10:00,26.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1648,Whole Blood,Light Rain,Delivered,60
+FLT-00790,ZIP-19,BAT-1546,2023-05-14 18:53:11,83.8,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,448,Whole Blood,Light Rain,Returned - Weather,43
+FLT-00791,ZIP-27,BAT-1993,2023-10-26 17:06:30,98.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1239,Fresh Frozen Plasma,Light Rain,Returned - Weather,59
+FLT-00792,ZIP-14,BAT-1587,2023-04-26 00:47:22,138.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1357,Platelets,Overcast,Partial Delivery,39
+FLT-00793,ZIP-27,BAT-1694,2023-02-13 20:51:26,140.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,439,Fresh Frozen Plasma,Clear,Delivered,19
+FLT-00794,ZIP-29,BAT-1056,2023-08-29 01:43:19,104.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1513,Packed Red Cells,Light Rain,Returned - Weather,55
+FLT-00795,ZIP-12,BAT-1023,2023-03-28 12:31:50,115.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1302,Platelets,Overcast,Delivered,61
+FLT-00796,ZIP-29,BAT-1617,2023-02-04 04:24:43,142.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1247,Whole Blood,Light Rain,Delivered,60
+FLT-00797,ZIP-19,BAT-1012,2023-06-04 15:30:32,83.8,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,906,Fresh Frozen Plasma,Light Rain,Delivered,37
+FLT-00798,ZIP-24,BAT-1909,2023-12-06 19:04:58,102.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1718,Platelets,Partly Cloudy,Returned - Technical,69
+FLT-00799,ZIP-28,BAT-1142,2023-04-23 08:15:50,99.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1424,Whole Blood,Light Rain,Returned - Technical,27
+FLT-00800,ZIP-28,BAT-1983,2023-04-29 00:19:08,36.4,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1748,Platelets,Foggy,Returned - Weather,23
+FLT-00801,ZIP-27,BAT-1179,2023-06-09 06:26:59,26.7,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1146,Packed Red Cells,Overcast,Delivered,30
+FLT-00802,ZIP-19,BAT-1846,2023-11-20 11:26:47,35.6,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1398,Fresh Frozen Plasma,Foggy,Returned - Weather,49
+FLT-00803,ZIP-14,BAT-1002,2023-10-15 13:57:28,112.9,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,737,Fresh Frozen Plasma,Clear,Partial Delivery,58
+FLT-00804,ZIP-25,BAT-1183,2023-07-03 18:24:10,135.9,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1608,Packed Red Cells,Overcast,Delivered,19
+FLT-00805,ZIP-21,BAT-1763,2023-10-25 05:41:30,23.8,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1390,Platelets,Clear,Returned - Weather,54
+FLT-00806,ZIP-26,BAT-1382,2023-12-04 11:34:14,99.8,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1701,Whole Blood,Light Rain,Returned - Technical,72
+FLT-00807,ZIP-14,BAT-1472,2023-03-05 11:50:46,87.3,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,931,Packed Red Cells,Partly Cloudy,Delivered,21
+FLT-00808,ZIP-19,BAT-1296,2023-05-21 12:17:14,86.0,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1284,Whole Blood,Overcast,Delivered,50
+FLT-00809,ZIP-15,BAT-1770,2023-10-25 21:45:40,37.6,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1313,Fresh Frozen Plasma,Clear,Returned - Weather,38
+FLT-00810,ZIP-28,BAT-1547,2023-11-07 21:23:45,137.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,920,Packed Red Cells,Overcast,Delivered,18
+FLT-00811,ZIP-15,BAT-1932,2023-07-21 11:42:05,34.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,409,Packed Red Cells,Light Rain,Delivered,27
+FLT-00812,ZIP-26,BAT-1975,2023-03-28 02:55:37,115.8,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1289,Whole Blood,Foggy,Returned - Weather,44
+FLT-00813,ZIP-21,BAT-1491,2023-12-23 00:01:45,98.3,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,838,Fresh Frozen Plasma,Partly Cloudy,Delivered,26
+FLT-00814,ZIP-19,BAT-1176,2023-12-12 18:51:03,105.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,258,Whole Blood,Foggy,Partial Delivery,32
+FLT-00815,ZIP-16,BAT-1128,2023-11-30 00:05:47,38.1,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,466,Whole Blood,Partly Cloudy,Delivered,45
+FLT-00816,ZIP-25,BAT-1793,2023-10-24 13:53:46,141.2,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1751,Platelets,Clear,Delivered,20
+FLT-00817,ZIP-18,BAT-1121,2023-02-12 02:55:51,32.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,288,Whole Blood,Foggy,Returned - Weather,37
+FLT-00818,ZIP-28,BAT-1210,2023-01-05 05:44:44,141.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,609,Packed Red Cells,Clear,Returned - Weather,60
+FLT-00819,ZIP-21,BAT-1356,2023-01-12 14:42:53,83.4,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,528,Packed Red Cells,Overcast,Returned - Weather,50
+FLT-00820,ZIP-16,BAT-1222,2023-01-27 18:56:50,110.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,777,Packed Red Cells,Foggy,Returned - Weather,66
+FLT-00821,ZIP-26,BAT-1942,2023-01-02 22:20:54,117.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1649,Platelets,Clear,Delivered,41
+FLT-00822,ZIP-21,BAT-1854,2023-08-18 03:25:30,136.4,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,977,Platelets,Clear,Delivered,31
+FLT-00823,ZIP-13,BAT-1477,2023-03-30 14:57:32,112.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1264,Packed Red Cells,Overcast,Delivered,49
+FLT-00824,ZIP-25,BAT-1335,2023-10-01 22:34:05,84.9,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,436,Platelets,Clear,Delivered,36
+FLT-00825,ZIP-23,BAT-1297,2023-08-22 10:02:08,103.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,586,Whole Blood,Light Rain,Delivered,71
+FLT-00826,ZIP-13,BAT-1503,2023-09-21 23:57:38,100.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1011,Platelets,Clear,Returned - Technical,51
+FLT-00827,ZIP-28,BAT-1410,2023-09-20 23:36:39,135.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,408,Packed Red Cells,Partly Cloudy,Delivered,22
+FLT-00828,ZIP-17,BAT-1125,2023-03-19 13:37:10,85.3,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1069,Platelets,Foggy,Partial Delivery,35
+FLT-00829,ZIP-30,BAT-1808,2023-10-25 17:22:40,139.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1019,Fresh Frozen Plasma,Overcast,Partial Delivery,48
+FLT-00830,ZIP-24,BAT-1786,2023-08-23 11:54:33,142.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,421,Whole Blood,Light Rain,Returned - Weather,34
+FLT-00831,ZIP-11,BAT-1101,2023-07-13 08:55:39,99.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,339,Platelets,Partly Cloudy,Delivered,61
+FLT-00832,ZIP-29,BAT-1310,2023-03-11 19:17:34,24.7,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1476,Whole Blood,Overcast,Delivered,66
+FLT-00833,ZIP-25,BAT-1300,2023-09-14 23:43:04,27.6,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1204,Fresh Frozen Plasma,Light Rain,Partial Delivery,52
+FLT-00834,ZIP-23,BAT-1032,2023-11-11 14:54:55,89.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,443,Platelets,Foggy,Delivered,46
+FLT-00835,ZIP-19,BAT-1570,2023-11-28 11:21:52,85.6,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1646,Packed Red Cells,Light Rain,Returned - Weather,49
+FLT-00836,ZIP-25,BAT-1582,2023-02-22 11:31:16,100.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1551,Platelets,Light Rain,Delivered,48
+FLT-00837,ZIP-25,BAT-1269,2023-11-29 01:07:58,110.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1410,Platelets,Clear,Delivered,57
+FLT-00838,ZIP-10,BAT-1062,2023-05-18 05:59:47,141.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1409,Whole Blood,Overcast,Delivered,26
+FLT-00839,ZIP-20,BAT-1640,2023-05-16 17:46:02,89.1,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,979,Whole Blood,Foggy,Delivered,45
+FLT-00840,ZIP-17,BAT-1250,2023-05-20 00:53:35,85.9,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,680,Fresh Frozen Plasma,Clear,Returned - Technical,55
+FLT-00841,ZIP-15,BAT-1345,2023-12-20 19:26:26,27.1,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,240,Fresh Frozen Plasma,Overcast,Delivered,20
+FLT-00842,ZIP-10,BAT-1273,2023-09-13 16:50:24,104.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1625,Platelets,Foggy,Returned - Weather,55
+FLT-00843,ZIP-25,BAT-1827,2023-05-04 04:07:38,24.6,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,404,Packed Red Cells,Light Rain,Delivered,39
+FLT-00844,ZIP-19,BAT-1629,2023-07-15 12:08:32,104.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,944,Platelets,Overcast,Delivered,30
+FLT-00845,ZIP-27,BAT-1870,2023-09-05 00:46:09,104.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,638,Fresh Frozen Plasma,Clear,Partial Delivery,34
+FLT-00846,ZIP-12,BAT-1760,2023-04-26 17:13:32,29.6,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1669,Whole Blood,Light Rain,Returned - Weather,55
+FLT-00847,ZIP-12,BAT-1355,2023-04-17 09:56:45,83.2,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1534,Fresh Frozen Plasma,Foggy,Delivered,50
+FLT-00848,ZIP-22,BAT-1424,2023-06-18 09:01:05,87.9,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,714,Platelets,Overcast,Delivered,60
+FLT-00849,ZIP-16,BAT-1511,2023-03-12 09:19:18,116.2,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1553,Platelets,Foggy,Returned - Weather,35
+FLT-00850,ZIP-26,BAT-1061,2023-07-27 03:18:14,141.4,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,610,Fresh Frozen Plasma,Light Rain,Returned - Weather,47
+FLT-00851,ZIP-23,BAT-1445,2023-04-04 14:26:51,33.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,852,Whole Blood,Overcast,Partial Delivery,58
+FLT-00852,ZIP-18,BAT-1164,2023-11-25 18:59:01,35.9,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1606,Packed Red Cells,Overcast,Returned - Technical,43
+FLT-00853,ZIP-19,BAT-1816,2023-02-14 08:26:33,33.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1150,Platelets,Clear,Delivered,53
+FLT-00854,ZIP-18,BAT-1163,2023-06-14 03:30:12,102.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,479,Whole Blood,Clear,Delivered,34
+FLT-00855,ZIP-10,BAT-1497,2023-09-14 01:15:21,87.0,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,313,Whole Blood,Clear,Returned - Technical,38
+FLT-00856,ZIP-12,BAT-1906,2023-04-26 23:22:01,116.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1012,Packed Red Cells,Light Rain,Delivered,33
+FLT-00857,ZIP-28,BAT-1680,2023-08-10 23:51:27,27.5,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1787,Fresh Frozen Plasma,Clear,Returned - Weather,49
+FLT-00858,ZIP-28,BAT-1852,2023-04-03 17:02:13,26.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1709,Platelets,Overcast,Delivered,69
+FLT-00859,ZIP-16,BAT-1179,2023-10-17 04:12:00,136.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,762,Platelets,Light Rain,Returned - Weather,44
+FLT-00860,ZIP-13,BAT-1971,2023-12-02 08:48:37,87.3,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,848,Platelets,Light Rain,Returned - Weather,48
+FLT-00861,ZIP-21,BAT-1486,2023-04-06 22:07:03,142.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,831,Whole Blood,Partly Cloudy,Delivered,59
+FLT-00862,ZIP-17,BAT-1939,2023-01-14 18:26:50,115.9,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,718,Platelets,Clear,Returned - Technical,37
+FLT-00863,ZIP-17,BAT-1887,2023-09-30 08:13:18,137.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1106,Platelets,Clear,Returned - Weather,18
+FLT-00864,ZIP-17,BAT-1092,2023-12-27 10:59:43,105.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,809,Packed Red Cells,Overcast,Delivered,28
+FLT-00865,ZIP-12,BAT-1887,2023-09-03 10:38:01,100.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1796,Platelets,Light Rain,Returned - Weather,48
+FLT-00866,ZIP-13,BAT-1432,2023-06-10 15:04:42,142.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,528,Fresh Frozen Plasma,Overcast,Returned - Technical,50
+FLT-00867,ZIP-10,BAT-1711,2023-05-17 21:32:19,25.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1760,Whole Blood,Foggy,Returned - Technical,59
+FLT-00868,ZIP-16,BAT-1410,2023-03-13 14:34:38,140.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1486,Fresh Frozen Plasma,Partly Cloudy,Delivered,38
+FLT-00869,ZIP-30,BAT-1730,2023-02-02 04:27:29,110.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1762,Packed Red Cells,Partly Cloudy,Returned - Weather,72
+FLT-00870,ZIP-14,BAT-1489,2023-09-24 13:41:05,112.5,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,733,Packed Red Cells,Overcast,Delivered,61
+FLT-00871,ZIP-23,BAT-1086,2023-11-18 08:02:31,111.8,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,952,Packed Red Cells,Overcast,Delivered,43
+FLT-00872,ZIP-10,BAT-1970,2023-11-21 09:46:21,104.8,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1343,Packed Red Cells,Partly Cloudy,Delivered,23
+FLT-00873,ZIP-29,BAT-1410,2023-03-19 05:58:29,99.8,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1078,Fresh Frozen Plasma,Partly Cloudy,Delivered,27
+FLT-00874,ZIP-23,BAT-1538,2023-05-24 03:15:51,23.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1783,Platelets,Foggy,Returned - Weather,70
+FLT-00875,ZIP-18,BAT-1968,2023-07-12 03:48:10,135.9,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,789,Platelets,Partly Cloudy,Delivered,42
+FLT-00876,ZIP-16,BAT-1289,2023-06-17 18:05:14,39.4,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1056,Packed Red Cells,Foggy,Delivered,44
+FLT-00877,ZIP-24,BAT-1632,2023-01-12 10:11:05,34.9,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,708,Fresh Frozen Plasma,Overcast,Delivered,55
+FLT-00878,ZIP-20,BAT-1136,2023-09-09 14:40:21,138.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1619,Platelets,Clear,Delivered,61
+FLT-00879,ZIP-13,BAT-1074,2023-10-05 06:46:22,35.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1340,Whole Blood,Light Rain,Returned - Technical,21
+FLT-00880,ZIP-29,BAT-1961,2023-12-28 20:09:04,84.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1653,Whole Blood,Overcast,Returned - Weather,18
+FLT-00881,ZIP-21,BAT-1687,2023-07-16 04:40:20,87.6,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,470,Whole Blood,Overcast,Delivered,55
+FLT-00882,ZIP-12,BAT-1135,2023-04-12 08:05:38,33.9,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,849,Platelets,Light Rain,Delivered,27
+FLT-00883,ZIP-18,BAT-1892,2023-02-15 15:02:48,85.1,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1731,Fresh Frozen Plasma,Partly Cloudy,Delivered,45
+FLT-00884,ZIP-26,BAT-1270,2023-12-17 20:38:15,89.6,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,841,Platelets,Foggy,Partial Delivery,28
+FLT-00885,ZIP-30,BAT-1873,2023-10-14 10:07:08,90.6,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1101,Whole Blood,Partly Cloudy,Returned - Weather,30
+FLT-00886,ZIP-15,BAT-1266,2023-01-22 10:36:10,34.4,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1645,Platelets,Clear,Delivered,45
+FLT-00887,ZIP-27,BAT-1365,2023-12-14 21:38:15,29.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1193,Platelets,Clear,Delivered,49
+FLT-00888,ZIP-12,BAT-1357,2023-11-25 17:47:05,27.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,617,Fresh Frozen Plasma,Partly Cloudy,Delivered,29
+FLT-00889,ZIP-28,BAT-1912,2023-10-19 11:54:58,36.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,634,Whole Blood,Overcast,Returned - Weather,51
+FLT-00890,ZIP-25,BAT-1786,2023-03-12 09:01:25,112.5,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1586,Whole Blood,Clear,Delivered,39
+FLT-00891,ZIP-28,BAT-1382,2023-04-21 15:41:35,27.1,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,417,Fresh Frozen Plasma,Clear,Delivered,27
+FLT-00892,ZIP-29,BAT-1275,2023-02-01 17:33:50,25.3,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1547,Whole Blood,Light Rain,Delivered,39
+FLT-00893,ZIP-28,BAT-1751,2023-09-13 01:58:24,26.6,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,464,Packed Red Cells,Light Rain,Delivered,21
+FLT-00894,ZIP-27,BAT-1072,2023-04-21 03:19:21,137.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1433,Platelets,Clear,Returned - Technical,23
+FLT-00895,ZIP-15,BAT-1213,2023-04-10 08:17:59,99.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,995,Platelets,Light Rain,Returned - Weather,36
+FLT-00896,ZIP-25,BAT-1305,2023-10-20 12:21:15,142.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1085,Fresh Frozen Plasma,Partly Cloudy,Delivered,61
+FLT-00897,ZIP-26,BAT-1376,2023-02-21 05:40:49,112.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,609,Platelets,Clear,Partial Delivery,46
+FLT-00898,ZIP-21,BAT-1432,2023-07-05 06:44:23,99.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1457,Packed Red Cells,Foggy,Returned - Weather,45
+FLT-00899,ZIP-17,BAT-1692,2023-06-15 16:46:01,135.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1526,Packed Red Cells,Foggy,Delivered,49
+FLT-00900,ZIP-23,BAT-1479,2023-09-02 17:55:14,114.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,362,Platelets,Clear,Delivered,37
+FLT-00901,ZIP-26,BAT-1254,2023-02-19 21:05:12,38.1,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1075,Fresh Frozen Plasma,Overcast,Partial Delivery,54
+FLT-00902,ZIP-26,BAT-1110,2023-08-03 05:38:21,22.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1070,Platelets,Clear,Returned - Weather,24
+FLT-00903,ZIP-28,BAT-1260,2023-09-14 21:37:02,103.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,367,Whole Blood,Overcast,Delivered,25
+FLT-00904,ZIP-11,BAT-1402,2023-09-15 04:21:24,138.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,370,Platelets,Partly Cloudy,Partial Delivery,63
+FLT-00905,ZIP-18,BAT-1638,2023-05-03 04:11:31,87.3,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,899,Packed Red Cells,Light Rain,Partial Delivery,31
+FLT-00906,ZIP-23,BAT-1108,2023-01-31 15:04:05,38.6,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1294,Whole Blood,Foggy,Delivered,18
+FLT-00907,ZIP-29,BAT-1889,2023-02-15 13:31:12,97.8,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1686,Platelets,Light Rain,Delivered,37
+FLT-00908,ZIP-22,BAT-1689,2023-11-13 00:56:38,117.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,819,Whole Blood,Overcast,Returned - Technical,26
+FLT-00909,ZIP-16,BAT-1993,2023-01-06 15:19:58,34.1,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,254,Packed Red Cells,Clear,Returned - Technical,48
+FLT-00910,ZIP-27,BAT-1808,2023-02-26 14:56:06,140.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,590,Whole Blood,Light Rain,Partial Delivery,37
+FLT-00911,ZIP-14,BAT-1170,2023-02-27 19:00:14,101.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1713,Platelets,Clear,Delivered,49
+FLT-00912,ZIP-22,BAT-1583,2023-01-08 20:56:38,104.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,304,Fresh Frozen Plasma,Foggy,Returned - Weather,18
+FLT-00913,ZIP-28,BAT-1754,2023-09-03 01:50:45,28.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1420,Fresh Frozen Plasma,Light Rain,Delivered,20
+FLT-00914,ZIP-25,BAT-1694,2023-06-05 11:17:27,101.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,674,Whole Blood,Foggy,Returned - Technical,51
+FLT-00915,ZIP-23,BAT-1663,2023-06-14 03:22:02,26.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1169,Whole Blood,Foggy,Returned - Weather,49
+FLT-00916,ZIP-16,BAT-1743,2023-09-09 04:49:56,111.9,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1161,Fresh Frozen Plasma,Light Rain,Returned - Weather,46
+FLT-00917,ZIP-24,BAT-1873,2023-07-17 09:30:35,34.3,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,468,Fresh Frozen Plasma,Overcast,Returned - Weather,64
+FLT-00918,ZIP-15,BAT-1483,2023-06-01 20:31:24,142.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1473,Packed Red Cells,Overcast,Partial Delivery,36
+FLT-00919,ZIP-29,BAT-1160,2023-10-19 05:33:22,135.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1207,Whole Blood,Light Rain,Returned - Weather,68
+FLT-00920,ZIP-10,BAT-1048,2023-07-11 23:51:04,100.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,934,Fresh Frozen Plasma,Partly Cloudy,Returned - Weather,40
+FLT-00921,ZIP-23,BAT-1345,2023-03-03 20:18:36,136.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,433,Packed Red Cells,Foggy,Delivered,25
+FLT-00922,ZIP-11,BAT-1363,2023-03-29 06:43:21,113.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1777,Fresh Frozen Plasma,Overcast,Partial Delivery,27
+FLT-00923,ZIP-24,BAT-1051,2023-12-06 13:26:02,139.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1136,Whole Blood,Clear,Returned - Technical,24
+FLT-00924,ZIP-11,BAT-1575,2023-08-26 00:24:15,115.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1238,Whole Blood,Clear,Partial Delivery,28
+FLT-00925,ZIP-19,BAT-1745,2023-02-16 02:23:34,141.9,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1650,Platelets,Overcast,Delivered,66
+FLT-00926,ZIP-21,BAT-1662,2023-07-13 19:20:26,115.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,885,Packed Red Cells,Clear,Delivered,25
+FLT-00927,ZIP-25,BAT-1854,2023-06-20 18:47:14,40.3,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,899,Fresh Frozen Plasma,Clear,Delivered,50
+FLT-00928,ZIP-14,BAT-1251,2023-02-03 08:26:13,34.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1742,Platelets,Light Rain,Delivered,68
+FLT-00929,ZIP-26,BAT-1974,2023-02-23 20:12:01,39.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1597,Fresh Frozen Plasma,Light Rain,Delivered,19
+FLT-00930,ZIP-22,BAT-1322,2023-02-26 18:56:38,103.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1781,Packed Red Cells,Foggy,Returned - Weather,45
+FLT-00931,ZIP-30,BAT-1059,2023-06-02 23:30:26,27.7,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1660,Fresh Frozen Plasma,Partly Cloudy,Returned - Weather,44
+FLT-00932,ZIP-20,BAT-1760,2023-12-11 06:05:40,103.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,904,Whole Blood,Foggy,Partial Delivery,70
+FLT-00933,ZIP-24,BAT-1413,2023-12-16 20:33:05,86.9,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1518,Packed Red Cells,Partly Cloudy,Returned - Technical,52
+FLT-00934,ZIP-30,BAT-1831,2023-11-03 09:52:33,114.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1028,Packed Red Cells,Light Rain,Returned - Technical,37
+FLT-00935,ZIP-14,BAT-1900,2023-01-15 14:35:13,25.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1265,Fresh Frozen Plasma,Light Rain,Returned - Technical,31
+FLT-00936,ZIP-10,BAT-1163,2023-07-18 23:07:30,26.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,257,Fresh Frozen Plasma,Foggy,Delivered,33
+FLT-00937,ZIP-21,BAT-1861,2023-10-10 09:33:25,86.0,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,731,Fresh Frozen Plasma,Foggy,Delivered,25
+FLT-00938,ZIP-28,BAT-1305,2023-10-22 01:38:59,26.8,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1709,Whole Blood,Clear,Delivered,47
+FLT-00939,ZIP-30,BAT-1960,2023-04-02 22:35:11,89.1,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1562,Packed Red Cells,Foggy,Returned - Weather,40
+FLT-00940,ZIP-26,BAT-1386,2023-04-21 18:03:46,88.0,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1710,Packed Red Cells,Foggy,Returned - Weather,24
+FLT-00941,ZIP-14,BAT-1100,2023-07-20 19:40:47,87.3,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1657,Platelets,Overcast,Delivered,71
+FLT-00942,ZIP-12,BAT-1456,2023-02-02 01:48:10,98.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,956,Platelets,Light Rain,Delivered,55
+FLT-00943,ZIP-30,BAT-1510,2023-07-21 18:55:04,115.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1067,Platelets,Overcast,Returned - Weather,62
+FLT-00944,ZIP-14,BAT-1517,2023-10-12 10:05:46,105.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1192,Platelets,Partly Cloudy,Delivered,26
+FLT-00945,ZIP-24,BAT-1217,2023-07-19 13:14:07,141.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1169,Whole Blood,Clear,Returned - Technical,65
+FLT-00946,ZIP-23,BAT-1872,2023-08-06 08:30:23,35.5,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,425,Whole Blood,Clear,Returned - Weather,41
+FLT-00947,ZIP-19,BAT-1380,2023-04-23 17:10:47,109.5,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,966,Fresh Frozen Plasma,Partly Cloudy,Delivered,36
+FLT-00948,ZIP-23,BAT-1603,2023-01-12 02:46:18,104.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,299,Fresh Frozen Plasma,Partly Cloudy,Partial Delivery,36
+FLT-00949,ZIP-12,BAT-1357,2023-03-13 08:24:09,39.1,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,291,Platelets,Light Rain,Returned - Weather,48
+FLT-00950,ZIP-25,BAT-1386,2023-05-01 12:37:50,113.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1674,Packed Red Cells,Overcast,Partial Delivery,66
+FLT-00951,ZIP-20,BAT-1887,2023-07-16 06:44:24,37.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,382,Platelets,Light Rain,Returned - Technical,42
+FLT-00952,ZIP-24,BAT-1911,2023-12-16 20:53:10,35.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1707,Fresh Frozen Plasma,Foggy,Delivered,59
+FLT-00953,ZIP-19,BAT-1645,2023-12-03 13:16:20,22.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1349,Whole Blood,Clear,Returned - Weather,59
+FLT-00954,ZIP-28,BAT-1054,2023-02-03 07:40:28,110.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1268,Packed Red Cells,Foggy,Returned - Weather,66
+FLT-00955,ZIP-27,BAT-1958,2023-07-15 10:55:59,104.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,568,Whole Blood,Clear,Returned - Technical,35
+FLT-00956,ZIP-29,BAT-1546,2023-04-06 12:14:15,39.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,856,Platelets,Foggy,Returned - Weather,55
+FLT-00957,ZIP-15,BAT-1447,2023-07-11 02:51:38,28.5,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1049,Whole Blood,Clear,Delivered,51
+FLT-00958,ZIP-15,BAT-1554,2023-05-29 14:36:01,84.7,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,784,Packed Red Cells,Clear,Delivered,29
+FLT-00959,ZIP-15,BAT-1694,2023-10-26 15:07:07,83.3,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,320,Fresh Frozen Plasma,Overcast,Delivered,29
+FLT-00960,ZIP-20,BAT-1422,2023-10-05 06:26:37,22.1,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,728,Platelets,Light Rain,Delivered,70
+FLT-00961,ZIP-26,BAT-1520,2023-01-21 09:32:20,23.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,988,Whole Blood,Foggy,Returned - Weather,35
+FLT-00962,ZIP-30,BAT-1417,2023-05-04 21:06:38,25.3,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,678,Whole Blood,Light Rain,Delivered,35
+FLT-00963,ZIP-30,BAT-1568,2023-08-16 21:31:31,114.6,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,457,Fresh Frozen Plasma,Partly Cloudy,Partial Delivery,54
+FLT-00964,ZIP-21,BAT-1145,2023-06-23 10:51:21,98.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1306,Packed Red Cells,Foggy,Delivered,68
+FLT-00965,ZIP-24,BAT-1832,2023-07-29 00:11:42,40.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1471,Fresh Frozen Plasma,Foggy,Returned - Weather,59
+FLT-00966,ZIP-22,BAT-1859,2023-01-01 11:03:37,33.1,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,919,Packed Red Cells,Light Rain,Delivered,55
+FLT-00967,ZIP-22,BAT-1091,2023-04-20 12:00:40,109.5,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1630,Whole Blood,Foggy,Returned - Weather,71
+FLT-00968,ZIP-29,BAT-1215,2023-10-09 20:10:38,37.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1233,Fresh Frozen Plasma,Overcast,Delivered,61
+FLT-00969,ZIP-20,BAT-1329,2023-09-04 22:12:44,84.7,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,631,Platelets,Light Rain,Returned - Weather,56
+FLT-00970,ZIP-10,BAT-1944,2023-01-07 09:57:43,89.9,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1446,Platelets,Partly Cloudy,Returned - Technical,18
+FLT-00971,ZIP-22,BAT-1780,2023-09-19 12:04:41,23.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1302,Whole Blood,Foggy,Returned - Technical,68
+FLT-00972,ZIP-24,BAT-1835,2023-09-11 04:14:36,135.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1576,Whole Blood,Clear,Partial Delivery,40
+FLT-00973,ZIP-10,BAT-1831,2023-11-18 14:32:59,102.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,455,Platelets,Light Rain,Delivered,41
+FLT-00974,ZIP-21,BAT-1287,2023-06-22 21:45:50,32.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,592,Whole Blood,Clear,Partial Delivery,70
+FLT-00975,ZIP-21,BAT-1505,2023-09-01 01:37:37,111.6,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,275,Fresh Frozen Plasma,Partly Cloudy,Delivered,49
+FLT-00976,ZIP-30,BAT-1840,2023-10-02 19:25:09,139.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1011,Whole Blood,Clear,Delivered,35
+FLT-00977,ZIP-29,BAT-1579,2023-07-14 13:22:22,113.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1357,Packed Red Cells,Foggy,Delivered,22
+FLT-00978,ZIP-28,BAT-1955,2023-02-20 01:20:34,115.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,666,Fresh Frozen Plasma,Partly Cloudy,Delivered,30
+FLT-00979,ZIP-24,BAT-1573,2023-01-10 05:28:14,142.9,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,204,Platelets,Foggy,Returned - Weather,59
+FLT-00980,ZIP-23,BAT-1864,2023-09-10 16:43:09,135.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,761,Whole Blood,Overcast,Delivered,61
+FLT-00981,ZIP-17,BAT-1738,2023-07-01 10:54:12,113.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,296,Fresh Frozen Plasma,Foggy,Returned - Weather,44
+FLT-00982,ZIP-28,BAT-1901,2023-06-24 13:41:32,111.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,251,Packed Red Cells,Light Rain,Delivered,62
+FLT-00983,ZIP-19,BAT-1337,2023-01-30 03:50:04,105.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,328,Whole Blood,Partly Cloudy,Delivered,19
+FLT-00984,ZIP-18,BAT-1342,2023-06-18 00:03:21,104.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,706,Whole Blood,Foggy,Partial Delivery,48
+FLT-00985,ZIP-17,BAT-1813,2023-05-13 14:30:16,39.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,349,Platelets,Overcast,Returned - Weather,66
+FLT-00986,ZIP-11,BAT-1997,2023-09-01 02:40:22,25.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,268,Platelets,Clear,Delivered,38
+FLT-00987,ZIP-11,BAT-1452,2023-01-26 12:06:24,141.2,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,817,Platelets,Clear,Partial Delivery,22
+FLT-00988,ZIP-22,BAT-1870,2023-09-21 09:21:30,22.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1022,Whole Blood,Clear,Delivered,57
+FLT-00989,ZIP-23,BAT-1475,2023-04-01 18:45:40,104.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1470,Whole Blood,Foggy,Delivered,39
+FLT-00990,ZIP-20,BAT-1529,2023-12-31 08:55:27,140.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1403,Packed Red Cells,Clear,Delivered,24
+FLT-00991,ZIP-16,BAT-1808,2023-01-06 00:32:16,26.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1373,Packed Red Cells,Clear,Returned - Weather,58
+FLT-00992,ZIP-17,BAT-1190,2023-04-10 18:45:34,112.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,481,Whole Blood,Light Rain,Returned - Technical,21
+FLT-00993,ZIP-28,BAT-1318,2023-05-02 06:56:44,37.3,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1308,Packed Red Cells,Foggy,Returned - Technical,27
+FLT-00994,ZIP-10,BAT-1993,2023-05-01 03:03:14,102.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1260,Packed Red Cells,Overcast,Delivered,21
+FLT-00995,ZIP-16,BAT-1352,2023-07-17 04:35:16,39.1,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,610,Packed Red Cells,Foggy,Returned - Weather,68
+FLT-00996,ZIP-29,BAT-1478,2023-05-13 21:29:40,23.1,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1618,Fresh Frozen Plasma,Light Rain,Returned - Technical,72
+FLT-00997,ZIP-13,BAT-1166,2023-08-09 02:24:20,116.9,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1130,Whole Blood,Foggy,Delivered,49
+FLT-00998,ZIP-24,BAT-1235,2023-12-24 12:35:20,32.6,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1477,Packed Red Cells,Partly Cloudy,Returned - Technical,33
+FLT-00999,ZIP-22,BAT-1757,2023-10-13 12:50:21,103.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,620,Platelets,Overcast,Partial Delivery,29
+FLT-01000,ZIP-13,BAT-1568,2023-05-22 03:42:03,21.7,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,491,Fresh Frozen Plasma,Overcast,Delivered,46
+FLT-01001,ZIP-10,BAT-1998,2023-09-03 10:27:53,37.3,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,607,Packed Red Cells,Overcast,Delivered,36
+FLT-01002,ZIP-27,BAT-1867,2023-03-27 06:42:56,39.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,703,Packed Red Cells,Partly Cloudy,Delivered,30
+FLT-01003,ZIP-14,BAT-1851,2023-03-10 15:09:37,28.3,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,976,Whole Blood,Clear,Delivered,39
+FLT-01004,ZIP-15,BAT-1381,2023-04-29 17:28:50,36.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1279,Platelets,Overcast,Partial Delivery,63
+FLT-01005,ZIP-16,BAT-1194,2023-02-16 06:26:16,22.8,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1290,Platelets,Partly Cloudy,Partial Delivery,62
+FLT-01006,ZIP-29,BAT-1781,2023-05-04 17:31:25,87.4,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1402,Packed Red Cells,Partly Cloudy,Delivered,72
+FLT-01007,ZIP-30,BAT-1054,2023-04-25 11:58:54,115.5,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,773,Packed Red Cells,Overcast,Delivered,72
+FLT-01008,ZIP-25,BAT-1083,2023-08-16 02:02:27,116.3,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1558,Whole Blood,Partly Cloudy,Returned - Technical,28
+FLT-01009,ZIP-15,BAT-1475,2023-05-31 23:30:06,115.2,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,859,Fresh Frozen Plasma,Foggy,Delivered,51
+FLT-01010,ZIP-30,BAT-1410,2023-07-07 22:39:18,140.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1395,Whole Blood,Light Rain,Returned - Weather,31
+FLT-01011,ZIP-19,BAT-1223,2023-12-14 18:55:45,34.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1070,Platelets,Partly Cloudy,Delivered,54
+FLT-01012,ZIP-14,BAT-1086,2023-12-30 13:28:54,39.3,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1739,Whole Blood,Overcast,Returned - Weather,36
+FLT-01013,ZIP-20,BAT-1636,2023-07-21 17:45:34,100.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1072,Platelets,Foggy,Delivered,47
+FLT-01014,ZIP-15,BAT-1025,2023-06-09 01:42:58,100.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1104,Packed Red Cells,Light Rain,Returned - Weather,34
+FLT-01015,ZIP-26,BAT-1862,2023-01-30 17:19:53,137.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1250,Whole Blood,Clear,Delivered,68
+FLT-01016,ZIP-11,BAT-1368,2023-12-27 02:35:35,84.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1318,Packed Red Cells,Clear,Delivered,39
+FLT-01017,ZIP-18,BAT-1835,2023-09-20 10:27:22,35.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,590,Packed Red Cells,Overcast,Returned - Technical,72
+FLT-01018,ZIP-19,BAT-1788,2023-10-15 13:37:53,139.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,777,Fresh Frozen Plasma,Overcast,Delivered,68
+FLT-01019,ZIP-26,BAT-1669,2023-06-07 19:56:35,104.3,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1758,Packed Red Cells,Clear,Delivered,43
+FLT-01020,ZIP-26,BAT-1239,2023-03-30 09:06:23,38.4,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1402,Platelets,Partly Cloudy,Delivered,64
+FLT-01021,ZIP-23,BAT-1192,2023-05-13 13:10:38,104.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1777,Platelets,Overcast,Partial Delivery,31
+FLT-01022,ZIP-28,BAT-1142,2023-06-25 00:02:32,104.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,462,Fresh Frozen Plasma,Clear,Delivered,65
+FLT-01023,ZIP-23,BAT-1230,2023-07-14 08:28:32,28.1,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1071,Platelets,Overcast,Delivered,66
+FLT-01024,ZIP-14,BAT-1032,2023-07-29 00:49:57,137.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,514,Fresh Frozen Plasma,Foggy,Delivered,54
+FLT-01025,ZIP-16,BAT-1390,2023-11-07 14:34:42,139.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1000,Whole Blood,Foggy,Returned - Weather,52
+FLT-01026,ZIP-24,BAT-1985,2023-03-15 09:26:37,101.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1508,Fresh Frozen Plasma,Overcast,Returned - Weather,23
+FLT-01027,ZIP-29,BAT-1846,2023-02-10 18:16:09,38.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1200,Whole Blood,Partly Cloudy,Delivered,29
+FLT-01028,ZIP-26,BAT-1298,2023-01-28 05:42:12,39.9,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,343,Platelets,Light Rain,Returned - Weather,21
+FLT-01029,ZIP-23,BAT-1931,2023-07-21 15:03:56,82.7,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1000,Packed Red Cells,Overcast,Partial Delivery,25
+FLT-01030,ZIP-16,BAT-1978,2023-07-28 14:06:16,35.9,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,466,Packed Red Cells,Clear,Delivered,37
+FLT-01031,ZIP-19,BAT-1961,2023-11-14 21:20:39,103.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1403,Packed Red Cells,Light Rain,Delivered,50
+FLT-01032,ZIP-24,BAT-1146,2023-09-24 05:08:00,138.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,331,Platelets,Partly Cloudy,Delivered,56
+FLT-01033,ZIP-11,BAT-1589,2023-07-24 11:20:16,35.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1709,Whole Blood,Foggy,Delivered,36
+FLT-01034,ZIP-19,BAT-1862,2023-12-09 09:27:35,142.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1000,Packed Red Cells,Overcast,Returned - Technical,44
+FLT-01035,ZIP-15,BAT-1674,2023-03-11 23:47:21,39.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1630,Whole Blood,Light Rain,Delivered,43
+FLT-01036,ZIP-30,BAT-1903,2023-01-18 04:58:56,136.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1301,Fresh Frozen Plasma,Partly Cloudy,Delivered,60
+FLT-01037,ZIP-27,BAT-1421,2023-09-29 08:14:29,27.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,448,Fresh Frozen Plasma,Partly Cloudy,Delivered,22
+FLT-01038,ZIP-15,BAT-1461,2023-07-16 03:18:02,27.7,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,717,Packed Red Cells,Overcast,Delivered,50
+FLT-01039,ZIP-16,BAT-1408,2023-06-29 17:42:47,21.8,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1012,Whole Blood,Light Rain,Delivered,18
+FLT-01040,ZIP-24,BAT-1686,2023-02-14 18:55:13,88.3,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1192,Platelets,Partly Cloudy,Delivered,22
+FLT-01041,ZIP-15,BAT-1285,2023-08-02 05:43:28,26.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,549,Whole Blood,Light Rain,Delivered,56
+FLT-01042,ZIP-10,BAT-1079,2023-03-11 01:57:53,24.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1587,Fresh Frozen Plasma,Foggy,Returned - Technical,27
+FLT-01043,ZIP-16,BAT-1545,2023-05-20 07:36:45,99.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1105,Whole Blood,Clear,Returned - Technical,71
+FLT-01044,ZIP-19,BAT-1706,2023-11-12 09:50:18,139.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1109,Whole Blood,Clear,Delivered,56
+FLT-01045,ZIP-17,BAT-1383,2023-01-20 03:35:16,27.8,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,609,Whole Blood,Partly Cloudy,Delivered,19
+FLT-01046,ZIP-12,BAT-1196,2023-01-12 02:27:30,105.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,651,Whole Blood,Overcast,Partial Delivery,69
+FLT-01047,ZIP-13,BAT-1524,2023-03-07 10:46:54,140.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,869,Fresh Frozen Plasma,Clear,Delivered,53
+FLT-01048,ZIP-17,BAT-1123,2023-03-15 20:42:39,139.9,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,637,Whole Blood,Foggy,Delivered,40
+FLT-01049,ZIP-16,BAT-1398,2023-03-09 16:16:12,82.8,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1139,Packed Red Cells,Overcast,Delivered,22
+FLT-01050,ZIP-16,BAT-1906,2023-11-13 19:08:30,137.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1041,Fresh Frozen Plasma,Foggy,Returned - Weather,67
+FLT-01051,ZIP-28,BAT-1549,2023-07-14 06:23:09,117.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,551,Fresh Frozen Plasma,Clear,Returned - Technical,24
+FLT-01052,ZIP-14,BAT-1789,2023-05-07 05:12:03,117.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,880,Packed Red Cells,Light Rain,Returned - Technical,58
+FLT-01053,ZIP-28,BAT-1623,2023-05-04 17:40:01,142.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1119,Platelets,Light Rain,Delivered,50
+FLT-01054,ZIP-10,BAT-1238,2023-10-16 08:12:24,136.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1462,Whole Blood,Foggy,Returned - Technical,37
+FLT-01055,ZIP-11,BAT-1081,2023-10-14 19:51:01,36.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,481,Fresh Frozen Plasma,Partly Cloudy,Returned - Weather,49
+FLT-01056,ZIP-17,BAT-1038,2023-03-20 16:53:10,83.8,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1685,Platelets,Partly Cloudy,Returned - Technical,65
+FLT-01057,ZIP-23,BAT-1810,2023-02-22 09:27:33,84.9,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1527,Fresh Frozen Plasma,Clear,Returned - Weather,66
+FLT-01058,ZIP-16,BAT-1248,2023-03-31 04:31:41,28.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1304,Whole Blood,Overcast,Delivered,60
+FLT-01059,ZIP-22,BAT-1893,2023-11-08 12:04:20,38.1,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1267,Fresh Frozen Plasma,Partly Cloudy,Returned - Weather,29
+FLT-01060,ZIP-30,BAT-1053,2023-09-02 19:59:54,97.8,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,489,Packed Red Cells,Light Rain,Delivered,26
+FLT-01061,ZIP-12,BAT-1519,2023-03-09 16:46:33,26.3,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1072,Platelets,Partly Cloudy,Delivered,37
+FLT-01062,ZIP-19,BAT-1310,2023-10-08 12:29:13,34.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1380,Platelets,Light Rain,Delivered,58
+FLT-01063,ZIP-22,BAT-1368,2023-04-16 19:55:34,39.5,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,973,Packed Red Cells,Light Rain,Delivered,48
+FLT-01064,ZIP-25,BAT-1976,2023-06-14 09:49:26,101.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,240,Platelets,Light Rain,Returned - Weather,45
+FLT-01065,ZIP-14,BAT-1550,2023-10-22 23:04:19,28.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1332,Packed Red Cells,Overcast,Returned - Weather,34
+FLT-01066,ZIP-29,BAT-1575,2023-06-30 07:32:33,100.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1184,Whole Blood,Overcast,Delivered,39
+FLT-01067,ZIP-10,BAT-1004,2023-10-05 21:00:34,36.3,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1225,Fresh Frozen Plasma,Partly Cloudy,Delivered,49
+FLT-01068,ZIP-19,BAT-1501,2023-12-26 18:03:58,101.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1512,Whole Blood,Light Rain,Returned - Technical,44
+FLT-01069,ZIP-18,BAT-1446,2023-12-25 03:57:53,22.6,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1779,Fresh Frozen Plasma,Foggy,Returned - Weather,50
+FLT-01070,ZIP-30,BAT-1059,2023-07-10 00:17:08,140.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,989,Platelets,Overcast,Returned - Technical,65
+FLT-01071,ZIP-10,BAT-1723,2023-04-05 08:53:32,36.4,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1628,Packed Red Cells,Overcast,Returned - Technical,34
+FLT-01072,ZIP-29,BAT-1253,2023-06-27 03:17:42,116.7,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1384,Packed Red Cells,Partly Cloudy,Delivered,18
+FLT-01073,ZIP-12,BAT-1997,2023-10-27 15:58:53,22.3,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1261,Packed Red Cells,Light Rain,Delivered,45
+FLT-01074,ZIP-27,BAT-1990,2023-11-19 11:49:35,36.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1548,Platelets,Overcast,Returned - Weather,55
+FLT-01075,ZIP-28,BAT-1651,2023-10-13 06:45:19,85.9,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1790,Fresh Frozen Plasma,Clear,Delivered,70
+FLT-01076,ZIP-25,BAT-1172,2023-04-15 17:27:38,38.6,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,203,Whole Blood,Light Rain,Returned - Technical,22
+FLT-01077,ZIP-15,BAT-1441,2023-06-12 12:32:50,139.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,561,Fresh Frozen Plasma,Overcast,Returned - Technical,29
+FLT-01078,ZIP-13,BAT-1971,2023-02-22 10:03:56,136.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1122,Packed Red Cells,Partly Cloudy,Returned - Weather,29
+FLT-01079,ZIP-23,BAT-1923,2023-01-24 03:45:09,38.6,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1102,Whole Blood,Partly Cloudy,Delivered,58
+FLT-01080,ZIP-10,BAT-1350,2023-02-01 05:52:52,34.9,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1399,Packed Red Cells,Light Rain,Returned - Weather,48
+FLT-01081,ZIP-10,BAT-1272,2023-09-19 12:59:35,103.8,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1562,Whole Blood,Clear,Delivered,24
+FLT-01082,ZIP-18,BAT-1985,2023-07-23 02:30:38,38.9,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1195,Platelets,Light Rain,Returned - Weather,66
+FLT-01083,ZIP-20,BAT-1911,2023-08-23 23:09:04,86.1,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,845,Packed Red Cells,Overcast,Returned - Technical,41
+FLT-01084,ZIP-20,BAT-1894,2023-06-05 00:01:19,137.9,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,405,Whole Blood,Clear,Delivered,47
+FLT-01085,ZIP-13,BAT-1616,2023-06-06 07:07:31,140.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1286,Fresh Frozen Plasma,Partly Cloudy,Delivered,62
+FLT-01086,ZIP-10,BAT-1192,2023-05-24 08:00:55,36.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1506,Fresh Frozen Plasma,Light Rain,Returned - Weather,19
+FLT-01087,ZIP-17,BAT-1454,2023-05-21 03:21:34,141.9,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1442,Platelets,Overcast,Returned - Technical,43
+FLT-01088,ZIP-25,BAT-1961,2023-08-27 03:46:28,141.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1548,Whole Blood,Overcast,Delivered,64
+FLT-01089,ZIP-28,BAT-1532,2023-04-25 09:00:05,102.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1667,Whole Blood,Partly Cloudy,Partial Delivery,26
+FLT-01090,ZIP-24,BAT-1917,2023-11-06 16:54:28,98.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,436,Platelets,Foggy,Partial Delivery,60
+FLT-01091,ZIP-12,BAT-1966,2023-04-04 19:21:56,111.1,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,416,Platelets,Partly Cloudy,Partial Delivery,63
+FLT-01092,ZIP-18,BAT-1784,2023-03-04 11:30:03,29.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,651,Fresh Frozen Plasma,Overcast,Delivered,60
+FLT-01093,ZIP-25,BAT-1648,2023-12-15 19:24:27,103.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,385,Fresh Frozen Plasma,Partly Cloudy,Returned - Weather,32
+FLT-01094,ZIP-22,BAT-1351,2023-10-25 20:46:55,116.6,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1669,Platelets,Clear,Returned - Technical,59
+FLT-01095,ZIP-13,BAT-1265,2023-11-02 03:29:36,139.4,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,795,Whole Blood,Light Rain,Returned - Weather,25
+FLT-01096,ZIP-13,BAT-1964,2023-05-13 09:14:47,27.5,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1373,Fresh Frozen Plasma,Partly Cloudy,Returned - Technical,26
+FLT-01097,ZIP-28,BAT-1063,2023-05-28 21:40:30,87.2,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1296,Packed Red Cells,Clear,Delivered,72
+FLT-01098,ZIP-14,BAT-1695,2023-06-14 19:09:22,100.3,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1264,Packed Red Cells,Overcast,Partial Delivery,24
+FLT-01099,ZIP-19,BAT-1965,2023-01-04 19:38:35,102.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,648,Platelets,Light Rain,Returned - Weather,61
+FLT-01100,ZIP-11,BAT-1681,2023-02-27 12:06:14,102.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1426,Fresh Frozen Plasma,Partly Cloudy,Returned - Technical,37
+FLT-01101,ZIP-25,BAT-1220,2023-09-25 16:13:01,110.2,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,796,Platelets,Foggy,Delivered,21
+FLT-01102,ZIP-17,BAT-1750,2023-03-01 13:17:16,89.3,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1634,Whole Blood,Partly Cloudy,Partial Delivery,67
+FLT-01103,ZIP-15,BAT-1675,2023-11-29 23:45:25,36.5,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,244,Platelets,Light Rain,Delivered,39
+FLT-01104,ZIP-22,BAT-1400,2023-09-21 12:28:25,101.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,347,Fresh Frozen Plasma,Overcast,Partial Delivery,36
+FLT-01105,ZIP-28,BAT-1331,2023-12-25 17:34:41,136.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,310,Fresh Frozen Plasma,Foggy,Returned - Weather,47
+FLT-01106,ZIP-14,BAT-1918,2023-03-05 19:44:34,139.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,629,Packed Red Cells,Light Rain,Returned - Technical,69
+FLT-01107,ZIP-28,BAT-1743,2023-03-18 05:38:14,140.8,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,408,Packed Red Cells,Clear,Delivered,42
+FLT-01108,ZIP-25,BAT-1364,2023-09-22 02:53:19,104.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,567,Whole Blood,Clear,Delivered,25
+FLT-01109,ZIP-17,BAT-1413,2023-09-10 17:21:02,111.9,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,269,Whole Blood,Light Rain,Delivered,33
+FLT-01110,ZIP-12,BAT-1384,2023-07-10 00:19:24,100.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1792,Platelets,Foggy,Delivered,70
+FLT-01111,ZIP-12,BAT-1119,2023-05-29 15:26:19,137.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,449,Platelets,Light Rain,Returned - Weather,59
+FLT-01112,ZIP-28,BAT-1586,2023-12-20 01:37:58,139.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1182,Fresh Frozen Plasma,Clear,Returned - Weather,62
+FLT-01113,ZIP-30,BAT-1495,2023-02-06 23:18:00,141.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1639,Platelets,Partly Cloudy,Delivered,37
+FLT-01114,ZIP-27,BAT-1930,2023-02-18 21:17:17,110.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,578,Platelets,Clear,Returned - Technical,70
+FLT-01115,ZIP-12,BAT-1500,2023-01-08 22:02:58,138.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1262,Whole Blood,Foggy,Partial Delivery,66
+FLT-01116,ZIP-15,BAT-1613,2023-09-14 00:25:57,39.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,210,Platelets,Partly Cloudy,Partial Delivery,69
+FLT-01117,ZIP-27,BAT-1089,2023-02-18 00:51:55,82.9,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,725,Whole Blood,Foggy,Delivered,23
+FLT-01118,ZIP-10,BAT-1967,2023-07-16 19:38:39,24.0,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,708,Fresh Frozen Plasma,Foggy,Delivered,20
+FLT-01119,ZIP-20,BAT-1502,2023-12-18 13:39:53,115.4,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1270,Fresh Frozen Plasma,Foggy,Returned - Weather,56
+FLT-01120,ZIP-11,BAT-1839,2023-07-18 13:02:49,110.9,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,685,Whole Blood,Clear,Returned - Technical,30
+FLT-01121,ZIP-27,BAT-1616,2023-04-27 15:29:32,39.4,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,642,Fresh Frozen Plasma,Partly Cloudy,Delivered,35
+FLT-01122,ZIP-18,BAT-1261,2023-10-11 09:44:44,37.6,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,981,Packed Red Cells,Clear,Returned - Weather,43
+FLT-01123,ZIP-12,BAT-1208,2023-02-02 13:59:03,105.3,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1489,Fresh Frozen Plasma,Light Rain,Returned - Weather,58
+FLT-01124,ZIP-30,BAT-1673,2023-09-08 23:09:35,136.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1247,Packed Red Cells,Overcast,Returned - Weather,44
+FLT-01125,ZIP-17,BAT-1618,2023-05-04 02:41:31,40.5,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,358,Fresh Frozen Plasma,Light Rain,Returned - Weather,25
+FLT-01126,ZIP-21,BAT-1091,2023-02-12 23:10:56,114.6,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,883,Fresh Frozen Plasma,Light Rain,Delivered,27
+FLT-01127,ZIP-13,BAT-1107,2023-04-17 12:34:22,32.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,559,Fresh Frozen Plasma,Light Rain,Delivered,55
+FLT-01128,ZIP-29,BAT-1277,2023-02-07 08:30:09,101.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,402,Whole Blood,Foggy,Returned - Weather,28
+FLT-01129,ZIP-27,BAT-1759,2023-10-20 05:57:48,85.7,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1329,Platelets,Overcast,Partial Delivery,48
+FLT-01130,ZIP-14,BAT-1129,2023-02-19 19:03:32,111.2,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,975,Fresh Frozen Plasma,Foggy,Returned - Weather,21
+FLT-01131,ZIP-23,BAT-1623,2023-09-06 11:42:54,142.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1647,Platelets,Partly Cloudy,Returned - Technical,29
+FLT-01132,ZIP-26,BAT-1438,2023-05-18 17:31:56,104.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1671,Packed Red Cells,Foggy,Returned - Weather,37
+FLT-01133,ZIP-20,BAT-1789,2023-11-30 10:24:27,135.6,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,384,Whole Blood,Overcast,Delivered,22
+FLT-01134,ZIP-12,BAT-1058,2023-04-04 11:18:16,142.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1722,Fresh Frozen Plasma,Partly Cloudy,Returned - Weather,53
+FLT-01135,ZIP-14,BAT-1748,2023-11-11 04:20:21,104.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1182,Platelets,Light Rain,Returned - Technical,50
+FLT-01136,ZIP-29,BAT-1014,2023-09-21 01:59:32,142.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,589,Whole Blood,Clear,Delivered,63
+FLT-01137,ZIP-26,BAT-1756,2023-10-01 02:37:45,102.0,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1600,Whole Blood,Overcast,Delivered,56
+FLT-01138,ZIP-14,BAT-1375,2023-03-07 16:50:06,103.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1252,Fresh Frozen Plasma,Foggy,Returned - Weather,21
+FLT-01139,ZIP-17,BAT-1346,2023-07-12 16:28:04,100.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1304,Whole Blood,Overcast,Delivered,36
+FLT-01140,ZIP-30,BAT-1755,2023-07-07 21:02:54,85.0,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1364,Platelets,Partly Cloudy,Delivered,31
+FLT-01141,ZIP-24,BAT-1957,2023-12-28 01:55:24,90.1,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1465,Platelets,Foggy,Partial Delivery,21
+FLT-01142,ZIP-13,BAT-1362,2023-01-03 12:54:32,87.6,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,210,Fresh Frozen Plasma,Overcast,Delivered,64
+FLT-01143,ZIP-16,BAT-1503,2023-06-06 09:32:46,35.4,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,373,Packed Red Cells,Clear,Delivered,44
+FLT-01144,ZIP-18,BAT-1672,2023-12-21 20:47:37,25.5,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,663,Platelets,Partly Cloudy,Partial Delivery,43
+FLT-01145,ZIP-18,BAT-1831,2023-04-27 11:32:16,85.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,422,Platelets,Partly Cloudy,Returned - Weather,60
+FLT-01146,ZIP-16,BAT-1891,2023-03-05 02:24:18,98.8,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,426,Packed Red Cells,Light Rain,Delivered,36
+FLT-01147,ZIP-16,BAT-1164,2023-02-22 03:59:27,24.8,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1181,Fresh Frozen Plasma,Overcast,Delivered,25
+FLT-01148,ZIP-22,BAT-1769,2023-07-10 04:26:33,102.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1227,Platelets,Partly Cloudy,Delivered,26
+FLT-01149,ZIP-26,BAT-1352,2023-02-12 03:30:38,27.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,227,Packed Red Cells,Partly Cloudy,Delivered,21
+FLT-01150,ZIP-19,BAT-1491,2023-11-19 12:37:47,137.7,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,777,Platelets,Foggy,Returned - Weather,23
+FLT-01151,ZIP-13,BAT-1785,2023-04-07 11:10:19,102.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,739,Packed Red Cells,Foggy,Returned - Weather,60
+FLT-01152,ZIP-26,BAT-1747,2023-03-19 07:20:17,101.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1451,Packed Red Cells,Clear,Returned - Technical,30
+FLT-01153,ZIP-22,BAT-1135,2023-09-02 11:50:47,114.2,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,278,Fresh Frozen Plasma,Partly Cloudy,Delivered,30
+FLT-01154,ZIP-11,BAT-1885,2023-06-15 19:25:54,32.7,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,978,Platelets,Partly Cloudy,Delivered,51
+FLT-01155,ZIP-23,BAT-1344,2023-09-30 03:57:12,87.7,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1181,Whole Blood,Partly Cloudy,Delivered,50
+FLT-01156,ZIP-18,BAT-1372,2023-09-08 07:19:58,98.1,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,918,Platelets,Clear,Delivered,33
+FLT-01157,ZIP-20,BAT-1053,2023-12-14 20:59:41,83.0,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,634,Fresh Frozen Plasma,Clear,Delivered,48
+FLT-01158,ZIP-21,BAT-1503,2023-12-20 01:39:56,87.5,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,884,Fresh Frozen Plasma,Light Rain,Returned - Weather,25
+FLT-01159,ZIP-21,BAT-1339,2023-09-18 01:02:34,21.7,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1718,Fresh Frozen Plasma,Foggy,Partial Delivery,65
+FLT-01160,ZIP-16,BAT-1282,2023-07-25 15:21:06,114.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1396,Platelets,Partly Cloudy,Returned - Technical,23
+FLT-01161,ZIP-30,BAT-1991,2023-02-20 22:12:43,26.6,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,590,Packed Red Cells,Foggy,Returned - Weather,63
+FLT-01162,ZIP-25,BAT-1742,2023-12-26 16:17:28,98.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1758,Packed Red Cells,Foggy,Returned - Weather,52
+FLT-01163,ZIP-18,BAT-1563,2023-03-01 22:19:48,135.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1755,Fresh Frozen Plasma,Partly Cloudy,Delivered,41
+FLT-01164,ZIP-26,BAT-1536,2023-09-02 20:45:50,103.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,244,Packed Red Cells,Light Rain,Delivered,56
+FLT-01165,ZIP-28,BAT-1978,2023-09-28 19:46:21,90.4,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,324,Packed Red Cells,Overcast,Delivered,65
+FLT-01166,ZIP-26,BAT-1768,2023-07-12 11:58:32,103.2,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,986,Platelets,Foggy,Returned - Weather,43
+FLT-01167,ZIP-16,BAT-1585,2023-04-16 16:30:33,110.8,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1412,Whole Blood,Clear,Delivered,68
+FLT-01168,ZIP-19,BAT-1225,2023-06-27 03:01:03,113.2,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1650,Fresh Frozen Plasma,Foggy,Delivered,53
+FLT-01169,ZIP-14,BAT-1654,2023-03-08 16:51:08,23.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,768,Packed Red Cells,Foggy,Returned - Weather,35
+FLT-01170,ZIP-10,BAT-1118,2023-09-07 17:43:27,29.4,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1528,Fresh Frozen Plasma,Partly Cloudy,Returned - Weather,58
+FLT-01171,ZIP-29,BAT-1418,2023-05-24 14:21:21,111.8,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,803,Fresh Frozen Plasma,Foggy,Delivered,21
+FLT-01172,ZIP-18,BAT-1748,2023-11-14 02:56:44,135.0,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,561,Fresh Frozen Plasma,Overcast,Delivered,19
+FLT-01173,ZIP-22,BAT-1704,2023-09-13 12:38:38,117.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1539,Fresh Frozen Plasma,Foggy,Delivered,58
+FLT-01174,ZIP-28,BAT-1208,2023-08-23 22:52:22,139.3,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,1489,Platelets,Light Rain,Delivered,27
+FLT-01175,ZIP-12,BAT-1490,2023-04-01 05:48:58,103.5,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1215,Packed Red Cells,Light Rain,Returned - Weather,47
+FLT-01176,ZIP-15,BAT-1502,2023-11-13 23:55:27,39.5,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1526,Fresh Frozen Plasma,Partly Cloudy,Returned - Weather,19
+FLT-01177,ZIP-14,BAT-1071,2023-03-05 12:30:42,89.7,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,347,Platelets,Light Rain,Returned - Technical,33
+FLT-01178,ZIP-10,BAT-1140,2023-12-20 07:42:56,102.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1435,Whole Blood,Light Rain,Delivered,42
+FLT-01179,ZIP-30,BAT-1850,2023-01-09 07:05:10,98.6,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,289,Packed Red Cells,Clear,Partial Delivery,33
+FLT-01180,ZIP-13,BAT-1009,2023-04-15 04:44:21,22.7,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1310,Fresh Frozen Plasma,Foggy,Delivered,72
+FLT-01181,ZIP-15,BAT-1454,2023-02-03 05:55:58,136.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,829,Fresh Frozen Plasma,Light Rain,Partial Delivery,48
+FLT-01182,ZIP-13,BAT-1556,2023-04-05 22:27:47,33.0,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,243,Whole Blood,Overcast,Returned - Technical,24
+FLT-01183,ZIP-10,BAT-1229,2023-04-26 11:48:11,110.0,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,664,Platelets,Light Rain,Returned - Weather,42
+FLT-01184,ZIP-13,BAT-1393,2023-05-18 11:05:13,37.8,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,1207,Packed Red Cells,Partly Cloudy,Returned - Technical,25
+FLT-01185,ZIP-29,BAT-1078,2023-02-09 18:15:02,40.2,Ruhango District Hospital,Ruhango,-2.2167,29.7833,23.72,883,Whole Blood,Overcast,Delivered,41
+FLT-01186,ZIP-26,BAT-1438,2023-12-15 01:28:16,21.9,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,885,Packed Red Cells,Partly Cloudy,Delivered,61
+FLT-01187,ZIP-19,BAT-1837,2023-02-28 14:09:07,104.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,913,Whole Blood,Overcast,Returned - Weather,35
+FLT-01188,ZIP-12,BAT-1928,2023-09-15 05:47:11,100.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,204,Packed Red Cells,Overcast,Partial Delivery,67
+FLT-01189,ZIP-25,BAT-1804,2023-02-27 04:18:33,137.5,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,337,Whole Blood,Light Rain,Delivered,54
+FLT-01190,ZIP-15,BAT-1130,2023-10-10 11:24:25,99.9,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,1771,Platelets,Clear,Delivered,40
+FLT-01191,ZIP-14,BAT-1341,2023-07-12 04:20:17,86.0,Kabutare District Hospital,Huye,-2.5833,29.7333,57.09,1539,Packed Red Cells,Light Rain,Returned - Weather,42
+FLT-01192,ZIP-17,BAT-1841,2023-08-02 14:12:46,101.7,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,987,Whole Blood,Foggy,Delivered,55
+FLT-01193,ZIP-17,BAT-1089,2023-06-14 01:50:27,139.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,940,Whole Blood,Partly Cloudy,Returned - Technical,31
+FLT-01194,ZIP-21,BAT-1061,2023-05-21 23:47:53,26.1,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,939,Packed Red Cells,Partly Cloudy,Delivered,36
+FLT-01195,ZIP-17,BAT-1847,2023-02-26 05:29:03,104.4,Kibogora Hospital,Nyamasheke,-2.3333,29.0667,67.14,314,Packed Red Cells,Foggy,Returned - Weather,25
+FLT-01196,ZIP-23,BAT-1988,2023-10-01 15:24:33,136.1,Rwamagana District Hospital,Rwamagana,-1.95,30.4333,91.95,961,Whole Blood,Clear,Returned - Technical,62
+FLT-01197,ZIP-10,BAT-1161,2023-09-15 15:15:09,26.3,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,500,Fresh Frozen Plasma,Light Rain,Partial Delivery,27
+FLT-01198,ZIP-15,BAT-1153,2023-04-06 09:59:32,22.2,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1162,Packed Red Cells,Foggy,Partial Delivery,65
+FLT-01199,ZIP-30,BAT-1454,2023-09-29 13:05:15,116.8,Byumba District Hospital,Gicumbi,-1.5833,30.0667,74.78,1623,Whole Blood,Light Rain,Delivered,36
+FLT-01200,ZIP-15,BAT-1769,2023-03-02 18:58:31,22.1,Kabgayi District Hospital,Muhanga,-2.02,29.75,16.4,1230,Packed Red Cells,Clear,Returned - Weather,18

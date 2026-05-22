@@ -1,0 +1,87 @@
+======================================================================
+  ZIPLINE RWANDA — DATA QUALITY & OPERATIONS REPORT
+  Generated: 2026-05-16 17:32:53
+  Source:    Muhanga Distribution Centre, Rwanda
+  Dataset:   1,200 flights  |  16,273 telemetry points
+======================================================================
+
+SUMMARY: 9/9 checks passed  — no anomalies detected
+
+----------------------------------------------------------------------
+  [✓ PASS]  Null / missing fields audit
+----------------------------------------------------------------------
+  total_flights | missing_drone_id | missing_battery_id | missing_timestamp | missing_outcome
+  --------------+------------------+--------------------+-------------------+----------------
+  1200          | 0                | 0                  | 0                 | 0              
+
+----------------------------------------------------------------------
+  [✓ PASS]  Duplicate flight IDs
+----------------------------------------------------------------------
+  (no rows returned)
+
+----------------------------------------------------------------------
+  [✓ PASS]  Impossible flight durations (too fast for distance)
+----------------------------------------------------------------------
+  (no rows returned)
+
+----------------------------------------------------------------------
+  [✓ PASS]  Battery critical landings (<20% remaining)
+----------------------------------------------------------------------
+  flight_id | drone_id | battery_id | distance_km | battery_pct_end | outcome             
+  ----------+----------+------------+-------------+-----------------+---------------------
+  FLT-00015 | ZIP-23   | BAT-1300   | 74.78       | 18              | Delivered           
+  FLT-00075 | ZIP-26   | BAT-1070   | 74.78       | 18              | Delivered           
+  FLT-00150 | ZIP-19   | BAT-1279   | 91.95       | 18              | Delivered           
+  FLT-00155 | ZIP-17   | BAT-1046   | 57.09       | 18              | Returned - Weather  
+  FLT-00156 | ZIP-19   | BAT-1261   | 23.72       | 18              | Partial Delivery    
+  FLT-00241 | ZIP-13   | BAT-1483   | 23.72       | 18              | Returned - Technical
+  FLT-00248 | ZIP-25   | BAT-1143   | 67.14       | 18              | Returned - Weather  
+  FLT-00282 | ZIP-10   | BAT-1016   | 67.14       | 18              | Delivered           
+  FLT-00340 | ZIP-12   | BAT-1671   | 91.95       | 18              | Delivered           
+  FLT-00390 | ZIP-10   | BAT-1224   | 67.14       | 18              | Returned - Weather  
+
+----------------------------------------------------------------------
+  [✓ PASS]  Delivery outcome breakdown
+----------------------------------------------------------------------
+  outcome              | total | pct 
+  ---------------------+-------+-----
+  Delivered            | 590   | 49.2
+  Returned - Weather   | 298   | 24.8
+  Partial Delivery     | 162   | 13.5
+  Returned - Technical | 150   | 12.5
+
+----------------------------------------------------------------------
+  [✓ PASS]  Success rate by weather condition
+----------------------------------------------------------------------
+  weather       | total_flights | delivered | success_pct
+  --------------+---------------+-----------+------------
+  Clear         | 230           | 131       | 57.0       
+  Partly Cloudy | 248           | 135       | 54.4       
+  Overcast      | 240           | 128       | 53.3       
+  Light Rain    | 233           | 99        | 42.5       
+  Foggy         | 249           | 97        | 39.0       
+
+----------------------------------------------------------------------
+  [✓ PASS]  Coverage — flights per destination hospital
+----------------------------------------------------------------------
+  destination_hospital        | destination_district | total_flights | delivered | avg_km
+  ----------------------------+----------------------+---------------+-----------+-------
+  Kibogora Hospital           | Nyamasheke           | 230           | 107       | 67.1  
+  Rwamagana District Hospital | Rwamagana            | 225           | 116       | 92.0  
+  Ruhango District Hospital   | Ruhango              | 198           | 87        | 23.7  
+  Kabgayi District Hospital   | Muhanga              | 197           | 106       | 16.4  
+  Byumba District Hospital    | Gicumbi              | 183           | 95        | 74.8  
+  Kabutare District Hospital  | Huye                 | 167           | 79        | 57.1  
+
+----------------------------------------------------------------------
+  [✓ PASS]  Telemetry completeness
+----------------------------------------------------------------------
+  flights_with_telemetry | total_flights | total_points
+  -----------------------+---------------+-------------
+  100                    | 1200          | 16273       
+
+----------------------------------------------------------------------
+  [✓ PASS]  Speed anomalies in telemetry (>35 m/s)
+----------------------------------------------------------------------
+  (no rows returned)
+
