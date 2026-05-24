@@ -2,16 +2,14 @@
 
 **Geospatial SQL + data pipeline project analysing drone delivery operations from Zipline's Muhanga Distribution Centre, Rwanda.**
 
-Built by [Kevin Kayitare](https://www.linkedin.com/in/kevin-kayitare-2b3b16327/) — a Product Manager based in Kigali, Rwanda, applying for a Technical Program Manager role on Zipline's Data Operations team.
+Built by Kevin Kayitare — Product Manager based in Kigali, Rwanda, working on Rwanda's nationwide Blood Bank Management System, civil registration, and health records infrastructure
 
 ---
 
-## Why I built this
+## Background
 
-Zipline's TPM role is fundamentally about turning messy, manual operational workflows into scalable, auditable systems. To demonstrate I think in those terms — not just in product roadmaps — I built a full operational data pipeline modelled on Zipline's real-world Rwanda delivery network.
-
-The dataset is synthetic but grounded in Zipline's actual operating context: the Muhanga distribution centre, the hospitals it serves across Rwanda's Southern and Eastern provinces, blood product deliveries, and the kinds of telemetry data Zipline's drones produce in flight.
-
+Zipline's Rwanda network delivers blood products and medical supplies to hospitals across the Southern and Eastern provinces. This project builds a full operational data pipeline modelled on that network — covering data ingestion, quality validation, SQL analysis, and visualisation.
+The dataset is synthetic but grounded in Zipline's actual operating context: the Muhanga distribution centre, the hospitals it serves, blood product payloads, and the telemetry data drones produce in flight.
 ---
 
 ## Project structure
@@ -89,7 +87,7 @@ Loads two CSV sources into a SQLite database:
 | Speed anomalies in telemetry (>35 m/s) | Anomaly detection |
 
 ### 3. QA report
-Every pipeline run outputs a human-readable `qa_report.txt` with pass/fail status per check and full result tables. This mirrors the kind of structured reporting a TPM would own in a real data ops workflow.
+Every pipeline run outputs a human-readable `qa_report.txt` with pass/fail status per check and full result tables.
 
 ---
 
@@ -104,6 +102,22 @@ Every pipeline run outputs a human-readable `qa_report.txt` with pass/fail statu
 **Section 4 — Fleet & battery health:** drone utilisation, battery cycle tracking, peak operating hours
 
 **Section 5 — Telemetry quality:** coverage gaps, step-jump detection, speed anomaly flagging, data completeness per flight
+
+---
+
+### Key Findings
+
+Derived from the synthetic dataset generated for this project.
+
+
+- Adverse weather reduced delivery success rates by 18 percentage points
+  compared to clear conditions (39% vs 57%)
+- Huye district recorded both the lowest flight volume (167 flights) and
+  one of the lowest success rates (47.3%), indicating an underserved area
+- Workload is broadly distributed across the fleet — the top 3 drones
+  account for only 16.8% of total flights, suggesting balanced utilisation
+- No step-jump or speed anomalies were detected in the telemetry dataset,
+  confirming clean positional data across all 16,273 records
 
 ---
 
@@ -131,28 +145,22 @@ Flight paths from Muhanga DC to destination hospitals across Rwanda's Southern a
 ---
 
 ### Fleet utilisation — flights per drone
-Identifies uneven workload distribution across the fleet, relevant for maintenance scheduling and capacity planning.
-
+Confirms broadly even workload distribution across the fleet, relevant for maintenance scheduling and capacity planning.
 ![Fleet utilisation](visualizations/04_fleet_utilisation.png)
 
 ---
 
-## The operational framing
-
-Every query and check in this project was designed around a specific operational question a TPM at Zipline would actually ask:
-
+## Operational Questions This Project Addresses
 - *Is our data clean enough to trust for decision-making?* → QA pipeline
 - *Which hospitals are we under-serving?* → Coverage analysis
 - *Does weather affect delivery reliability, and by how much?* → Weather success rate
 - *Which drones need maintenance attention?* → Fleet utilisation + battery health
 - *Are there gaps in our telemetry that would break downstream analytics?* → Telemetry completeness
 
-That's the lens I applied throughout — not just "what does this data contain" but "what decisions does this data need to support."
-
 ---
 
 ## About
 
-Kevin Kayitare — Product Manager at Azul Tech, Kigali, Rwanda.
+Kevin Kayitare — Product Manager, Kigali, Rwanda.
 Working on government-facing platforms including Rwanda's nationwide Blood Bank Management System, civil registration, and health records infrastructure.
 
