@@ -2,7 +2,7 @@
 
 **Geospatial SQL and analytics pipeline project modelling Zipline Rwanda drone delivery operations.**
 
-Built by Kevin Kayitare — Product Manager based in Kigali, Rwanda, working on Rwanda's nationwide Blood Bank Management System, civil registration, and health records infrastructure
+Operational analytics and telemetry modelling project built in Python + SQLite.
 
 ---
 
