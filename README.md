@@ -1,6 +1,6 @@
 # Zipline Rwanda — Drone Delivery Operations Analysis
 
-**Geospatial SQL + data pipeline project analysing drone delivery operations from Zipline's Muhanga Distribution Centre, Rwanda.**
+**Geospatial SQL and analytics pipeline project modelling Zipline Rwanda drone delivery operations.**
 
 Built by Kevin Kayitare — Product Manager based in Kigali, Rwanda, working on Rwanda's nationwide Blood Bank Management System, civil registration, and health records infrastructure
 
@@ -8,7 +8,7 @@ Built by Kevin Kayitare — Product Manager based in Kigali, Rwanda, working on 
 
 ## Background
 
-Zipline's Rwanda network delivers blood products and medical supplies to hospitals across the Southern and Eastern provinces. This project builds a full operational data pipeline modelled on that network — covering data ingestion, quality validation, SQL analysis, and visualisation.
+Zipline's Rwanda network delivers blood products and medical supplies to hospitals across the Southern and Eastern provinces. This project simulates a full operational analytics pipeline modelled on that network — covering data ingestion, quality validation, SQL analysis, and visualisation.
 The dataset is synthetic but grounded in Zipline's actual operating context: the Muhanga distribution centre, the hospitals it serves, blood product payloads, and the telemetry data drones produce in flight.
 ---
 
@@ -105,7 +105,7 @@ Every pipeline run outputs a human-readable `qa_report.txt` with pass/fail statu
 
 ---
 
-### Key Findings
+## Key Findings
 
 Derived from the synthetic dataset generated for this project.
 
@@ -128,21 +128,18 @@ Tracks operational throughput and reliability month-over-month across 2023.
 
 ![Monthly volume](visualizations/01_monthly_volume_success.png)
 
----
 
 ### Delivery success rate by weather condition
 Quantifies weather impact on delivery reliability — operationally relevant for flight planning and SLA design.
 
 ![Weather impact](visualizations/02_success_by_weather.png)
 
----
 
 ### Geospatial coverage map
 Flight paths from Muhanga DC to destination hospitals across Rwanda's Southern and Eastern provinces. Hospital marker size = flight volume; colour = success rate.
 
 ![Coverage map](visualizations/03_coverage_map.png)
 
----
 
 ### Fleet utilisation — flights per drone
 Confirms broadly even workload distribution across the fleet, relevant for maintenance scheduling and capacity planning.
